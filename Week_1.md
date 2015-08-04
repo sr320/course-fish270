@@ -12,4 +12,23 @@ Ch52 1059-1081
 
 ---
 
-write 
+"How life works"
+
+**Important Molecules**
+Water and other inorganics
+
+*Organics*
+- Carbohydrates
+- Lipids
+- Amino Acids (proteins)
+- Nucleotides (nucleic acids)    
+
+Cell Structure
+
+Tissue 
+
+Organisms (show dramatic diversity in form, environments)  
+
+
+
+
