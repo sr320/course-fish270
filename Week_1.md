@@ -14,20 +14,37 @@ Ch52 1059-1081
 
 "How life works"
 
-**Important Molecules**
+###Important Molecules
 Water and other inorganics
 
 *Organics*
+
 - Carbohydrates
 - Lipids
 - Amino Acids (proteins)
 - Nucleotides (nucleic acids)    
 
+Prokaryotes - Eukaryotes - Domains of Life? Plants 
+
 Cell Structure
 
 Tissue 
 
-Organisms (show dramatic diversity in form, environments)  
+Organisms - Plant life (show dramatic diversity in form, environments) 
+
+
+
+
+###Homeostasis
+
+Mechanistic explanation
+
+
+_Topics_
+   • Bioenergetics     • Energy acquisition - primary production and oxygen       
+• Thermal Biology    • Osmoregulation        
+• Digestion and excretion    • Sensory systems    • Circulation and gas exchange    
+• Defense   • Reproduction    
 
 
 
