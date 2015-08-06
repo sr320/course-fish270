@@ -94,7 +94,7 @@ _Topics_
 
 
 2. HOMEOSTASIS:
-•	Internal vs. external environment. How organisms maintain a relative stable interior milieu in a changing external environment. Ch42, 853-854. Other resource: https://www.youtube.com/watch?v=5HS66q_OA8g, it introduces well many concepts of the class (thermal biology, osmoregulation, digestion and excretion, etc). Other resources: https://www.youtube.com/watch?v=TeSKSPPZ6Ik student can log in at www.prezi.com for free if using their uw email and access to the homeostasis lecture with links to other videos and postcads. Prezi is a cloud-based presentation software that uses motion, zoom, and spatial relationships. 
+•	Internal vs. external environment. How organisms maintain a relative stable interior milieu in a changing external environment. Ch42, 853-854. Other resource: https://www.youtube.com/watch?v=5HS66q_OA8g, it introduces well many concepts of the class (thermal biology, osmoregulation, digestion and excretion, etc). Other resources: https://www.youtube.com/watch?v=TeSKSPPZ6Ik student can log in at www.prezi.com for free if using their uw email and access to the homeostasis lecture, which has links to other videos and postcads. Prezi is a cloud-based presentation software that uses motion, zoom, and spatial relationships. 
 •	General mechanisms involved in homeostatic regulation: autoregulation (intrinsic regulation) and extrinsic regulation. Differences.
 •	Components of the homeostatic control system (set point, sensor, integrator and effector), feedback (negative and positive) and feedforward systems. Ch 42, pp. 854.
 
