@@ -86,7 +86,7 @@ _Topics_
 
 
 ********************************************************************************************************************
-1. INTRODUCTION TO AQUATIC ECOPHYSIOLOGY:
+## INTRODUCTION TO AQUATIC ECOPHYSIOLOGY:
 
 •	What´s aquatic physiology and why we do study it.    
 
@@ -97,7 +97,7 @@ _Topics_
 •	Structure and function. They are complementary with each other. Structure determines function and function determines certain structure. Form-function correlation: pp. 16, Ch 7 pp.118, Ch 42, pp. 843-849, Ch 44, pp. 884-885, Ch 48, pp. 984-985  Other visual support at https://www.youtube.com/watch?v=haopSRCuPdo, clearing and staining fish (Dr. Adam Summers).
 
 
-2. HOMEOSTASIS:
+## HOMEOSTASIS:
 
 •	Internal vs. external environment. How organisms maintain a relative stable interior milieu in a changing external environment. Ch42, 853-854. Other resource: https://www.youtube.com/watch?v=5HS66q_OA8g, it introduces well many concepts of the class (thermal biology, osmoregulation, digestion and excretion, etc).    
 
@@ -107,7 +107,7 @@ Other resources: https://www.youtube.com/watch?v=TeSKSPPZ6Ik student can log in 
 
 •	Components of the homeostatic control system (set point, sensor, integrator and effector), feedback (negative and positive) and feedforward systems. Ch 42, pp. 854.
 
-3. AQUATIC ENVIRONMENT
+## AQUATIC ENVIRONMENT
 
 •	Understand the nature of the water molecule and its unique properties. Ch 2, pp 25-30.
 
@@ -128,7 +128,7 @@ o	Defensive adaptations (simple –swimming and hiding- and complex tactics –s
 o	Feeding adaptations          
 o	Locomotion adaptations        
 
-3. LABS
+## LABS
 
 •	Histology: The form and functions of tissues. Histology sample preparation (fixation, processing, embedding, sectioning and staining).
 
