@@ -2,7 +2,12 @@
 • Intro – Basics Central dogma    
 • Intro - Environmental challenges for living organisms     
 • Intro - Environmental challenges for living organisms      
-• Lab - Diversity (size and scale)       
+• Lab - Diversity (size and scale)      
+
+Lecture theme option        
+M LIFE       
+W HOMEOSTASIS       
+F External env.         
 
 ---
 Ch1 58-67     
