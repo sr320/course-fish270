@@ -17,9 +17,13 @@ Note: Based on the syllabus BIO200, the students should have knowledge on princi
 •	What is bioenergetics and why we study it?
 
 •	What are cells doing with energy harvested from the environment?
+
   o	Homeostasis (keep intracellular conditions stable -revise important concepts from previous week-)
+  
   o	Growing and producing: creation of new cells/cell constituents (requires synthesis of specific biomolecules) 
+  
   o	Transporting material against concentration gradients (active transport)
+  
   o	Moving (motility)
 
 •	Overview: Sources of energy in aquatic environments:
