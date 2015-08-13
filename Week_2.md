@@ -11,8 +11,9 @@ Ch44 882-885
 Ch10      
 
 ---
-4. BIOENERGETICS 
+#4. BIOENERGETICS 
 Note: Based on the syllabus BIO200, the students should have knowledge on principles of glucose biochemistry, respiration/ATP synthase, glycolysis, Krebs cycle and fermentation/anaerobic respiration. Student can be referred to check lectures online to refresh concepts (see links of interest).
+
 •	What is bioenergetics and why we study it?
 
 •	What are cells doing with energy harvested from the environment?
