@@ -14,38 +14,33 @@ Ch10
 #4. BIOENERGETICS 
 Note: Based on the syllabus BIO200, the students should have knowledge on principles of glucose biochemistry, respiration/ATP synthase, glycolysis, Krebs cycle and fermentation/anaerobic respiration. Student can be referred to online lectures to refresh concepts (see links of interest).
 
-•	What is bioenergetics and why we study it?
+-	What is bioenergetics and why we study it?
 
-•	What are cells doing with energy harvested from the environment?
-
+-	What are cells doing with energy harvested from the environment?
   -	Homeostasis (keep intracellular conditions stable -revise important concepts from previous week-)
-  
   -	Growing and producing: creation of new cells/cell constituents (requires synthesis of specific biomolecules) 
-  
   -	Transporting material against concentration gradients (active transport)
-  
   -	Moving (motility)
 
-•	Overview: Sources of energy in aquatic environments:
-
+-	Overview: Sources of energy in aquatic environments:
   -	Sunlight is the ultimate energy source for life in the sea, and this is true even in deep water ecosystems (e.g. marine snow, whale falls, etc). Phototrophs are the base of the food chain.
   -	Exception in hydrothermal vents and cold seeps/brine pools. Chemotrophs are the base of the food chain. These use hydrogen sulfide and methane as energy source to produce carbohydrates. - However, although it is often said that these communities exist independently of the sun, some of the organisms are actually dependent upon oxygen produced by photosynthetic organisms.- 
 
-•	Review basic concepts in bioenergetics (students should be familiar with these concepts after BIO200): 
-  o	Redox reactions (“OIL RIG”) Ch 8
-  o	Carbohydrates and energy storage Ch 5, pp 80-81
-  o	ATP as universal energy current
-  o	NAD/NADH and FAD/FADH2 as reducing equivalent.
+-	Review basic concepts in bioenergetics (students should be familiar with these concepts after BIO200): 
+  -	Redox reactions (“OIL RIG”) Ch 8
+  -	Carbohydrates and energy storage Ch 5, pp 80-81
+  -	ATP as universal energy current
+  -	NAD/NADH and FAD/FADH2 as reducing equivalent.
 
-•	Metabolic diversity in eukaryotes vs. bacteria and archaea. All metabolisms can be arranged according to these three principles:
-  o	How the organism obtains energy for living and growing (Source of energy): Phototrophs (ATP is produced by photophosphorilation-this will be explained in detail in the next class-) and chemotrophs (ATP is produced by cellular respiration or fermentation).
-  o	How the organism obtains reducing equivalents (source of electron donor): Organotrophs (oxidize organic molecules with high potential energy -sugar, starch or fatty acids- for ATP synthesis) and lithotrophs (oxidize inorganic molecules with high potential energy -eg., NH3, CH4, H2S- for ATP synthesis).
-  o	How the organism obtains carbon for synthesizing cell mass (source of C-C bonds): Autotrophs (synthesize its own compounds from CO2 and more rarely CH4, CH3OH, and CO) or heterotrophs (cannot fix C, and use organic C to growth).
+-	Metabolic diversity in eukaryotes vs. bacteria and archaea. All metabolisms can be arranged according to these three principles:
+  -	How the organism obtains energy for living and growing (Source of energy): Phototrophs (ATP is produced by photophosphorilation-this will be explained in detail in the next class-) and chemotrophs (ATP is produced by cellular respiration or fermentation).
+  -	How the organism obtains reducing equivalents (source of electron donor): Organotrophs (oxidize organic molecules with high potential energy -sugar, starch or fatty acids- for ATP synthesis) and lithotrophs (oxidize inorganic molecules with high potential energy -eg., NH3, CH4, H2S- for ATP synthesis).
+  -	How the organism obtains carbon for synthesizing cell mass (source of C-C bonds): Autotrophs (synthesize its own compounds from CO2 and more rarely CH4, CH3OH, and CO) or heterotrophs (cannot fix C, and use organic C to growth).
 
-•	Compared with eukaryotes (most of eukaryotes are photolithoautotrophs -green plants and algae-, or chemoorganoheterotrophs -metazoan and fungi-), the metabolic capabilities of bacteria and archaea are remarkably complex and diverse. Bacteria and archaea have evolved dozens of variation on the basic processes of respiration and photosynthesis (Chapters 9 and 10). 
-  o	Producing ATP through cellular respiration: variation in electron donor and acceptor. Ch 29, pp 538-540. Introduce role in bioremediation (Ch 29, pp 533) E.g., some bacteria and archaea use hydrocarbons in cellular respiration.  
-  o	Producing ATP via fermentation: Variation in substrate. Ch 29, pp 540-541.
-  o	Producing ATP via photosynthesis: variation in electron sources and pigments (this will introduce and put into perspective the next class and the lab work this week). Ch 29, pp 541
+-	Compared with eukaryotes (most of eukaryotes are photolithoautotrophs -green plants and algae-, or chemoorganoheterotrophs -metazoan and fungi-), the metabolic capabilities of bacteria and archaea are remarkably complex and diverse. Bacteria and archaea have evolved dozens of variation on the basic processes of respiration and photosynthesis (Chapters 9 and 10). 
+  -	Producing ATP through cellular respiration: variation in electron donor and acceptor. Ch 29, pp 538-540. Introduce role in bioremediation (Ch 29, pp 533) E.g., some bacteria and archaea use hydrocarbons in cellular respiration.  
+  -	Producing ATP via fermentation: Variation in substrate. Ch 29, pp 540-541.
+  -	Producing ATP via photosynthesis: variation in electron sources and pigments (this will introduce and put into perspective the next class and the lab work this week). Ch 29, pp 541
 
 
 Links of interest:
