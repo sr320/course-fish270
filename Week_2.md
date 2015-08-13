@@ -64,24 +64,24 @@ http://oceanservice.noaa.gov/facts/marinesnow.html
 
 -	Overview: Different types of Photosynthesis. Variation is electron sources and pigments (this can be used to revise concepts from the previous class, and contextualize phototrophic organisms). Ch 29 pp541
 Phototrophs in aquatic environments:
-  	Rhodopsin-based retinalophototrophy. Use bacteriorhodopsin and archaerhodopsin. Haleobacteria in water saturated or nearly saturated with salt.
+  - Rhodopsin-based retinalophototrophy. Use bacteriorhodopsin and archaerhodopsin. Haleobacteria in water saturated or nearly saturated with salt.
   -	Photosynthesis by absorbing getothermal radiation. Photosynthetic green sulfur bacteria at a deep-sea hydrothermal vent. See links of interest. 
   -	Chlorophyll-based chlorophototrophy. Two types:
       - Anoxygenic. Many phototrophic bacteria use a molecule other than water as the source of electrons (e.g., H2S or Fe2+). Instead of producing oxygen they produce S or the ferric ion Fe3+. Anoxygenic photosynthesis: green sulfur bacteria, green and red filamentous anoxygenic phototrophs (FAPs), phototrophic purple bacteria, phototrophic acidobacteria, and phototrophic heliobacteria. Use of bacteriochlorophylls.
       - Oxygenic. When organism “split” water molecules apart to obtain electrons, they generate oxygen as a by-product. Species that use H2O as a source of electrons (electron donor) for photosynthesis are said to complete oxygenic photosynthesis: plants, algae and cyanobacteria. Use mainly chlorophyll, and other pigments (phycocyanin, carotenes, xanthophylls –green algae-, phycoerythrin –red algae-, and fucoxanthin –brown algae and diatoms-). 
 
-•	Importance of the oxygenic (“oxygen-producing”) photosynthesis (plants, algae and cyanobacteria): fix C and produce O2. Basics:
-  o	Photosynthesis occurs in chloroplasts: Description of chloroplasts components (thylakoids, grana, lumen, stroma, etc). Ch 10 pp178
-  o	How do pigments capture light energy? Part of this can be covered in lab activity (extraction of pigments, and introduction to pigments -not only in chlorophylls but also in algal pigments, e.g., phycocyanin, ficoerythrin, fucoxantin, etc-)  Ch 10 pp 179-183
+-	Importance of the oxygenic (“oxygen-producing”) photosynthesis (plants, algae and cyanobacteria): fix C and produce O2. Basics:
+  -	Photosynthesis occurs in chloroplasts: Description of chloroplasts components (thylakoids, grana, lumen, stroma, etc). Ch 10 pp178
+  -	How do pigments capture light energy? Part of this can be covered in lab activity (extraction of pigments, and introduction to pigments -not only in chlorophylls but also in algal pigments, e.g., phycocyanin, ficoerythrin, fucoxantin, etc-)  Ch 10 pp 179-183
 
-•	Photosynthesis consists of two linked sets of reactions.
-  o	Light-dependent reaction: Produce oxygen, ATP and NADPH from H2O
+-	Photosynthesis consists of two linked sets of reactions.
+  -	Light-dependent reaction: Produce oxygen, ATP and NADPH from H2O
       -Photosystem II (P680) and I (P700), and how they both interact: The Z scheme. Ch 10 184-189.
-  o	Light-independent reaction: Produce sugar from CO2
+  -	Light-independent reaction: Produce sugar from CO2
       -The Calvin cycle (C3 pathway) Ch 10 190-194.
       -Importance of rubisco
 
-•	Photosynthesis in aquatic ecosystems. Use this last part of the section to correlate concepts shown in this lecture with concepts that students have (or should have) learnt from Marine Biology 250.
+-	Photosynthesis in aquatic ecosystems. Use this last part of the section to correlate concepts shown in this lecture with concepts that students have (or should have) learnt from Marine Biology 250.
 
 
 Links of interest:
@@ -112,29 +112,29 @@ http://www.sciencemag.org/content/326/5955/945.full
 
 
  
-6. NUTRITION: BASIC CONCEPTS AND FEEDING IN INVERTEBRATES
+#6. NUTRITION: BASIC CONCEPTS AND FEEDING IN INVERTEBRATES
 
-•	Review key concepts from previous lectures: 
-o	Sunlight is the ultimate energy source for life in the sea
-o	Phototrophs are the base of the food chain; they use sun’s energy to fix inorganic carbon into reduced organic material (previous lecture).
-o	Modes of nutrition autotrophy vs, heterotrophy 
+-	Review key concepts from previous lectures: 
+  -	Sunlight is the ultimate energy source for life in the sea
+  -	Phototrophs are the base of the food chain; they use sun’s energy to fix inorganic carbon into reduced organic material (previous lecture).
+ -	Modes of nutrition autotrophy vs, heterotrophy 
 
-•	Overview:
-o	Animals (i.e., heterotrophs) need to incorporate nutrients from the external environment.
-o	Animals get chemical energy from carbon containing “building blocks” (carbohydrates, proteins and fat), which have high potential energy. These compounds are used to synthesize ATP and key macromolecules. Remind catabolic pathways. Figure 9.3 in Ch 9, pp 157.
-o	In addition to obtaining chemical energy and the “building blocks” from carbohydrates and other compounds in food, animal require other essential nutrients (essential amino acids, vitamins, minerals, electrolytes). Ch 44, pp883-884. 
+-	Overview:
+  -	Animals (i.e., heterotrophs) need to incorporate nutrients from the external environment.
+  -	Animals get chemical energy from carbon containing “building blocks” (carbohydrates, proteins and fat), which have high potential energy. These compounds are used to synthesize ATP and key macromolecules. Remind catabolic pathways. Figure 9.3 in Ch 9, pp 157.
+  -	In addition to obtaining chemical energy and the “building blocks” from carbohydrates and other compounds in food, animal require other essential nutrients (essential amino acids, vitamins, minerals, electrolytes). Ch 44, pp883-884. 
 
-•	Basic concepts:
-o	Modes of feeding attending to two different criteria:
-	What animal eat: Diversification of ecological roles. Ch 33, pp 647-648
-•	Detritivores
-•	Herbivores
-•	Carnivores
-•	Omnivores
-	How animal feed: Four general strategies. Ch 33 648-649
-•	Suspension feeders
-•	Deposit feeders
-•	Fluid feeders
+-	Basic concepts:
+  -	Modes of feeding attending to two different criteria:
+    - What animal eat: Diversification of ecological roles. Ch 33, pp 647-648
+      -	Detritivores
+      -	Herbivores
+      -	Carnivores
+      -	Omnivores
+    - How animal feed: Four general strategies. Ch 33 648-649
+      -	Suspension feeders
+      -	Deposit feeders
+      -	Fluid feeders
 •	Mass feeders
 o	The digestive system: General steps:
 	Ingestion: Food is taken
