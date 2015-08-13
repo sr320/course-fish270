@@ -155,22 +155,22 @@ http://www.sciencemag.org/content/326/5955/945.full
     - Enzymes are secreted to break food into smaller molecules
     - What is the advantage of extracellular digestion? Animal can take in a lot of food at once and slowly digest it
 
-•	Animals are the only multicellular heterotrophs on the tree of life that usually ingest their food first, before they digest it. As a result digestion in animals typically occurs within the space, or lumen of the digestive tract rather than in the open space. Ch 33 pp 637. Ch 44, pp 886-887. Types of digestive tracts:
-  -	Incomplete digestive tracts: Gastrovascular cavity (aka coelenteron, bind sac, or blind gut). Ch 33, pp 652-654
-    - Cnidarians, ctenophores, flatworms
-    - Gastrovascular cavity = digestive sac with a single opening for both input and output
-    - Gastrovascular cavity serves as stomach and intestine
-    -	Different strategies to catch the prey (sticky tentacles –ctenophora-, cnidocytes –cnidaria-, etc)
-    -	Digestive enzymes are secreted to allow for extracellular digestion 
-    -	Nutritive muscular cells then engulf food particles 
-    -	Indigestible material leaves through mouth (no anus)
+-	Animals are the only multicellular heterotrophs on the tree of life that usually ingest their food first, before they digest it. As a result digestion in animals typically occurs within the space, or lumen of the digestive tract rather than in the open space. Ch 33 pp 637. Ch 44, pp 886-887. Types of digestive tracts:
+    -	Incomplete digestive tracts: Gastrovascular cavity (aka coelenteron, bind sac, or blind gut). Ch 33, pp 652-654
+      - Cnidarians, ctenophores, flatworms
+      - Gastrovascular cavity = digestive sac with a single opening for both input and output
+      - Gastrovascular cavity serves as stomach and intestine
+      -	Different strategies to catch the prey (sticky tentacles –ctenophora-, cnidocytes –cnidaria-, etc)
+      -	Digestive enzymes are secreted to allow for extracellular digestion 
+      -	Nutritive muscular cells then engulf food particles 
+      -	Indigestible material leaves through mouth (no anus)
     
-  -	Complete digestive tracts
-    -	Nematodes, annelids, mollusks, arthropods, echinoderms and chordates
-    -	Two openings: one for input and the other for output
-    -	Complete digestive tract = digestive tube running throughout body (alimentary canal)
-    -	Organisms with a complete digestive tract have both a mouth and an anus 
-    -	Why would having a separate entry and exit point be beneficial?  Digestion can be broken down into steps, and there can be specialization of digestive tissues for these steps
+    -	Complete digestive tracts
+      -	Nematodes, annelids, mollusks, arthropods, echinoderms and chordates
+      -	Two openings: one for input and the other for output
+      -	Complete digestive tract = digestive tube running throughout body (alimentary canal)
+      -	Organisms with a complete digestive tract have both a mouth and an anus 
+      -	Why would having a separate entry and exit point be beneficial?  Digestion can be broken down into steps, and there can be specialization of digestive tissues for these steps
 
 -	For information on feeding:
   -	Feeding in non-bilaterian: the most ancient of all major animal lineages. See sponges, ctenophores and cnidarians, Ch 33, pp 652-654
