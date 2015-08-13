@@ -62,13 +62,13 @@ http://oceanservice.noaa.gov/facts/marinesnow.html
  
 #5. PHOTOSYNTHESIS: PRIMARY PRODUCTION AND OXYGEN
 
-•	Overview: Different types of Photosynthesis. Variation is electron sources and pigments (this can be used to revise concepts from the previous class, and contextualize phototrophic organisms). Ch 29 pp541
+-	Overview: Different types of Photosynthesis. Variation is electron sources and pigments (this can be used to revise concepts from the previous class, and contextualize phototrophic organisms). Ch 29 pp541
 Phototrophs in aquatic environments:
-  o	Rhodopsin-based retinalophototrophy. Use bacteriorhodopsin and archaerhodopsin. Haleobacteria in water saturated or nearly saturated with salt.
-  o	Photosynthesis by absorbing getothermal radiation. Photosynthetic green sulfur bacteria at a deep-sea hydrothermal vent. See links of interest. 
-  o	Chlorophyll-based chlorophototrophy. Two types:
-      -Anoxygenic. Many phototrophic bacteria use a molecule other than water as the source of electrons (e.g., H2S or Fe2+). Instead of producing oxygen they produce S or the ferric ion Fe3+. Anoxygenic photosynthesis: green sulfur bacteria, green and red filamentous anoxygenic phototrophs (FAPs), phototrophic purple bacteria, phototrophic acidobacteria, and phototrophic heliobacteria. Use of bacteriochlorophylls.
-      -Oxygenic. When organism “split” water molecules apart to obtain electrons, they generate oxygen as a by-product. Species that use H2O as a source of electrons (electron donor) for photosynthesis are said to complete oxygenic photosynthesis: plants, algae and cyanobacteria. Use mainly chlorophyll, and other pigments (phycocyanin, carotenes, xanthophylls –green algae-, phycoerythrin –red algae-, and fucoxanthin –brown algae and diatoms-). 
+  	Rhodopsin-based retinalophototrophy. Use bacteriorhodopsin and archaerhodopsin. Haleobacteria in water saturated or nearly saturated with salt.
+  -	Photosynthesis by absorbing getothermal radiation. Photosynthetic green sulfur bacteria at a deep-sea hydrothermal vent. See links of interest. 
+  -	Chlorophyll-based chlorophototrophy. Two types:
+      - Anoxygenic. Many phototrophic bacteria use a molecule other than water as the source of electrons (e.g., H2S or Fe2+). Instead of producing oxygen they produce S or the ferric ion Fe3+. Anoxygenic photosynthesis: green sulfur bacteria, green and red filamentous anoxygenic phototrophs (FAPs), phototrophic purple bacteria, phototrophic acidobacteria, and phototrophic heliobacteria. Use of bacteriochlorophylls.
+      - Oxygenic. When organism “split” water molecules apart to obtain electrons, they generate oxygen as a by-product. Species that use H2O as a source of electrons (electron donor) for photosynthesis are said to complete oxygenic photosynthesis: plants, algae and cyanobacteria. Use mainly chlorophyll, and other pigments (phycocyanin, carotenes, xanthophylls –green algae-, phycoerythrin –red algae-, and fucoxanthin –brown algae and diatoms-). 
 
 •	Importance of the oxygenic (“oxygen-producing”) photosynthesis (plants, algae and cyanobacteria): fix C and produce O2. Basics:
   o	Photosynthesis occurs in chloroplasts: Description of chloroplasts components (thylakoids, grana, lumen, stroma, etc). Ch 10 pp178
