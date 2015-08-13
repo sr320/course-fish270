@@ -18,17 +18,18 @@ Note: Based on the syllabus BIO200, the students should have knowledge on princi
 
 •	What are cells doing with energy harvested from the environment?
 
-  o	Homeostasis (keep intracellular conditions stable -revise important concepts from previous week-)
+  -	Homeostasis (keep intracellular conditions stable -revise important concepts from previous week-)
   
-  o	Growing and producing: creation of new cells/cell constituents (requires synthesis of specific biomolecules) 
+  -	Growing and producing: creation of new cells/cell constituents (requires synthesis of specific biomolecules) 
   
-  o	Transporting material against concentration gradients (active transport)
+  -	Transporting material against concentration gradients (active transport)
   
-  o	Moving (motility)
+  -	Moving (motility)
 
 •	Overview: Sources of energy in aquatic environments:
-  o	Sunlight is the ultimate energy source for life in the sea, and this is true even in deep water ecosystems (e.g. marine snow, whale falls, etc). Phototrophs are the base of the food chain.
-  o	Exception in hydrothermal vents and cold seeps/brine pools. Chemotrophs are the base of the food chain. These use hydrogen sulfide and methane as energy source to produce carbohydrates. - However, although it is often said that these communities exist independently of the sun, some of the organisms are actually dependent upon oxygen produced by photosynthetic organisms.- 
+
+  -	Sunlight is the ultimate energy source for life in the sea, and this is true even in deep water ecosystems (e.g. marine snow, whale falls, etc). Phototrophs are the base of the food chain.
+  -	Exception in hydrothermal vents and cold seeps/brine pools. Chemotrophs are the base of the food chain. These use hydrogen sulfide and methane as energy source to produce carbohydrates. - However, although it is often said that these communities exist independently of the sun, some of the organisms are actually dependent upon oxygen produced by photosynthetic organisms.- 
 
 •	Review basic concepts in bioenergetics (students should be familiar with these concepts after BIO200): 
   o	Redox reactions (“OIL RIG”) Ch 8
