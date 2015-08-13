@@ -29,10 +29,10 @@ Note: Based on the syllabus BIO200, the students should have knowledge on princi
 -	Review basic concepts in bioenergetics (students should be familiar with these concepts after BIO200): 
   -	Redox reactions (“OIL RIG”) Ch 8
   -	Carbohydrates and energy storage Ch 5, pp 80-81
-  -	ATP as universal energy current
-  -	NAD/NADH and FAD/FADH2 as reducing equivalent.
+  -	ATP as universal energy current Ch 8, pp 143-144
+  -	NAD/NADH and FAD/FADH2 as reducing equivalent Ch8 pp 142
 
--	Metabolic diversity in eukaryotes vs. bacteria and archaea. All metabolisms can be arranged according to these three principles:
+-	Metabolic diversity in eukaryotes vs. bacteria and archaea. All metabolisms can be arranged according to these three principles (Ch 29, pp 538-541):
   -	How the organism obtains energy for living and growing (Source of energy): Phototrophs (ATP is produced by photophosphorilation-this will be explained in detail in the next class-) and chemotrophs (ATP is produced by cellular respiration or fermentation).
   -	How the organism obtains reducing equivalents (source of electron donor): Organotrophs (oxidize organic molecules with high potential energy -sugar, starch or fatty acids- for ATP synthesis) and lithotrophs (oxidize inorganic molecules with high potential energy -eg., NH3, CH4, H2S- for ATP synthesis).
   -	How the organism obtains carbon for synthesizing cell mass (source of C-C bonds): Autotrophs (synthesize its own compounds from CO2 and more rarely CH4, CH3OH, and CO) or heterotrophs (cannot fix C, and use organic C to growth).
@@ -140,7 +140,7 @@ http://www.sciencemag.org/content/326/5955/945.full
     - Ingestion: Food is taken
     - Digestion: Food is broken down into smaller pieces/molecules
     - Absorption: Nutrients molecules are absorbed into body cells
-    - Eimination: Undigested material exits the body
+    - Elimination: Undigested material exits the body
 
 -	Types of digestion
   -	Intracellular. 
@@ -217,12 +217,13 @@ What can we tell about the organism based on the pigments that it contains?
 
 -	The digestive system: carnivorous vs. herbivorous
   -	Gastrointestinal secretion
-    -	Absorption
+  -	Absorption
 
-•	Accesory organs
+-	Accesory organs
     -	Liver
     -	Pancreas/Hepatopancreas
-•	Control of processes
+    
+-	Control of processes
     -	Nervous
     -	Mechanical
     -	Hormonal
