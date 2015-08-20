@@ -158,17 +158,17 @@ Basic concepts in Osmoregulation (Ch 43, pp. 862-868):
 	- The laws of diffusion and osmosis, Figure 43.1, Ch 43, pp. 863
 	- Isotonic, hypertonic and hypotonic environments
 	- Osmotic stress when the organism is not in an isotonic environment. Two strategies:
-		- Osmoconformers
+		- Osmoconformers:
 			- Most of marine invertebrates are osmoconformes
 			- Seawater is isosmotic with respect to tissue in these species
 			- Although they do not compensate for changes in external osmolarity, osmoconformers often live in water that has a very stable composition and, hence, they have a very constant internal osmolarity
 		- Osmoregulators:
-			- Enables animals to live in environments that are uninhabitable to osmoconformers, such as freshwater and terrestrial habitats.
+			- Enables animals to live in environments that are uninhabitable to osmoconformers, such as freshwater and terrestrial habitats
 			- Marine and freshwater vertebrates are osmoregulators, as they have to regulate osmolarity inside their bodies to achieve homeostasis:
 				- Vertebrates in freshwater are hiperosmotic with respect to their environment
 				- Vertebrates in marine water are hipoosmotic with respect to their environment
 				- In terms of water balance, land vertebrates are similar to marine vertebrates: they constantly lose water to the environment
-				- 
+				
 - Whenever animals maintain an osmolarity difference between the body and the external environment, osmoregulation has energy cost:
 	- Because diffusion tends to equalize concentrations in a system, osmoregulators must expend energy to maintain the osmotic gradients via active transport.
 	- The energy costs depend mainly on how different an animal’s osmolarity is from its surroundings, how easily water and solutes can move across the animal’s surface, and how much membrane-transport work is required to pump solutes.
