@@ -18,6 +18,7 @@ We will divide this lecture in these main sections:
 - Intestine (intestine and spiral valve)
 - Rectum
 
+
 - Jaw
   - Jawless fish (Ch 35, pp. 697)
     - Cyclostomes (“round mouth”, or agnathans): hagfish and lampreys
@@ -77,7 +78,7 @@ We will divide this lecture in these main sections:
 	- It is the sight of the final digestion and absorption of the food a fish eats. 
 	- Intestines become longer as the diet moves through being carnivorous to omnivorous to detritivorous to herbivorous. 
 		- Carnivorous, have fairly short intestines because such food is easy to chemically break down and digest. 
-    		- Herbivorous, require longer intestines because plant matter is usually tough and fibrous and more difficult to break down into usable components. 
+		- Herbivorous, require longer intestines because plant matter is usually tough and fibrous and more difficult to break down into usable components. 
   	- Relative gut length (RGL), high RGL in species consuming detritus, algae etc. (high proportion of indigestible matter), in: 
 (TABLE 1 and FIGURE 2)
 	
@@ -88,16 +89,17 @@ We will divide this lecture in these main sections:
 		- Suite of enzymes in the intestinal environment (see table 44.3-digestive enzymes in mammals, Ch 44, pp. 895). Also digestive fluids and enzymes in fishes:
 (TABLE 2 and 3)
 
-**Note: we can complete this part of the lecture (digestive enzymes) in the lab -See notes in Lab activity.
+Note: we can complete this part of the lecture (digestive enzymes) in the lab -See notes in Lab activity.
 
 	- Most nutrient absorption occurs in the intestine
-		- Cross-section of the intestinal luma shows that it is highly convoluted, increasing surface area
-		-Absorption through membrane is either by: 
-		- Passive transport (concentration gradient, e.g., electrolytes, monosaccharides, some vitamins, smaller amino acids)
-		- Active transport (requires ATP)
-			- Triglycerides are absorbed as micelles 
-			- Carbohydrates are absorbed as monosaccharides
-			- Calcium and phosphorus are usually complexed together for absorption
+	- Cross-section of the intestinal luma shows that it is highly convoluted, increasing surface area
+	- Absorption through membrane is either by: 
+	- Passive transport (concentration gradient, e.g., electrolytes, monosaccharides, some vitamins, smaller amino acids)
+	- Active transport (requires ATP)
+		- Triglycerides are absorbed as micelles
+		- Carbohydrates are absorbed as monosaccharides
+		- Calcium and phosphorus are usually complexed together for absorption
+		
 	- All nutrients, excluding some lipids, are absorbed from the intestine via the hepatic portal vein to the liver 
 
 - Spiral valve
