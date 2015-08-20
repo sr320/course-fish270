@@ -86,19 +86,17 @@ We will divide this lecture in these main sections:
 		- Chyme entering the small intestine stimulates secretions from the pancreas and gallbladder (bile)
 		- Pancreatic secretions include bicarbonates (e.g., HCO3- ) which buffer acidity of the chyme
 		- When bile (gallbladder) enters in the intestine, it raises the pH and emulsifies fat. Once fats are broken into small globules, which increase their surface area, they can be attacked by pancreatic lipases and digested.  
-		- Suite of enzymes in the intestinal environment (see table 44.3-digestive enzymes in mammals, Ch 44, pp. 895). Also digestive fluids and enzymes in fishes:
+		- Suite of enzymes in the intestinal environment (see table 44.3-digestive enzymes in mammals, Ch 44, pp. 895). Also digestive fluids and enzymes in fishes:Note: we can complete this part of the lecture (digestive enzymes) in the lab -See notes in Lab activity.
 (TABLE 2 and 3)
-
-Note: we can complete this part of the lecture (digestive enzymes) in the lab -See notes in Lab activity.
 
 	- Most nutrient absorption occurs in the intestine
 	- Cross-section of the intestinal luma shows that it is highly convoluted, increasing surface area
-	- Absorption through membrane is either by: 
-	- Passive transport (concentration gradient, e.g., electrolytes, monosaccharides, some vitamins, smaller amino acids)
-	- Active transport (requires ATP)
-		- Triglycerides are absorbed as micelles
-		- Carbohydrates are absorbed as monosaccharides
-		- Calcium and phosphorus are usually complexed together for absorption
+	- Absorption through membrane is either by:
+		- Passive transport (concentration gradient, e.g., electrolytes, monosaccharides, some vitamins, smaller amino acids)
+		- Active transport (requires ATP)
+	- Triglycerides are absorbed as micelles
+	- Carbohydrates are absorbed as monosaccharides
+	- Calcium and phosphorus are usually complexed together for absorption
 		
 	- All nutrients, excluding some lipids, are absorbed from the intestine via the hepatic portal vein to the liver 
 
