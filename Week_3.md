@@ -97,7 +97,6 @@ We will divide this lecture in these main sections:
 	- Triglycerides are absorbed as micelles
 	- Carbohydrates are absorbed as monosaccharides
 	- Calcium and phosphorus are usually complexed together for absorption
-		
 	- All nutrients, excluding some lipids, are absorbed from the intestine via the hepatic portal vein to the liver 
 
 - Spiral valve
@@ -114,41 +113,41 @@ We will divide this lecture in these main sections:
 
 Note: This lecture seems pretty long. If we decide to remove some descriptive information and give some physiological perspective we can use the nutritional homeostasis of glucose: insulin vs. glucagon (Ch 44, pp 897)
 
-Link of interest
-Hagfish found to eat through their skin 
+- Link of interest
+	- Hagfish found to eat through their skin 
 http://phys.org/news/2011-03-hagfish-skin.html
 
-Evolutionary crossroads in developmental biology: cyclostomes (lamprey and hagfish). It contains some interesting slides, including jaw evolution:
+ 	- Evolutionary crossroads in developmental biology: cyclostomes (lamprey and hagfish). It contains some interesting slides, including jaw evolution:
 http://dev.biologists.org/content/139/12/2091.full
 
-More examples and pictures of fish jaws: http://www.flmnh.ufl.edu/fish/Education/Diagrams/FishTeeth.html
+	- More examples and pictures of fish jaws: http://www.flmnh.ufl.edu/fish/Education/Diagrams/FishTeeth.html
 
-Digestive system in marine mammals- In case we want to provide some notes and pics
+	- Digestive system in marine mammals- In case we want to provide some notes and pics
 http://www.mmapl.ucsc.edu/normal-anatomy-harbor-porpoise/digestive-system-harbor-porpoise
 
-Digestive system
+	- Digestive system
 http://www.slideshare.net/mgitterm/16-class-osteichthyes-notes
 
-Sharks digestive system
+	- Sharks digestive system
 https://www.pc.maricopa.edu/Biology/ppepe/BIO145/lab04_2.html
 
-Fish external and internal anatomy- we can use some pics:
+	- Fish external and internal anatomy- we can use some pics:
 http://myfwc.com/fishing/freshwater/fishing-tips/anatomy/
 
-Enzymatic digestion in stomachless fishes: how a simple gut accommodates both herbivory and carnivory:
+	- Enzymatic digestion in stomachless fishes: how a simple gut accommodates both herbivory and carnivory:
 http://german.bio.uci.edu/images/PDF/Day%20et%20al.%20%282011%29%20JCPB_print.pdf
 
-Vertebrate jaw evolution (a little harsh for new students but good for graphical info)
+	- Vertebrate jaw evolution (a little harsh for new students but good for graphical info)
 http://www.sciencemag.org/content/296/5571/1316.full
 
-How the platypus and a quarter of fishes lost their stomach
+	- How the platypus and a quarter of fishes lost their stomach
 http://phenomena.nationalgeographic.com/2013/12/03/how-the-platypus-and-a-quarter-of-fishes-lost-their-stomachs/
 And paper: http://rspb.royalsocietypublishing.org/content/281/1775/20132669
 
-Digestive enzymes in marine fishes I: Proteinase activity
+	- Digestive enzymes in marine fishes I: Proteinase activity
 http://digital.csic.es/bitstream/10261/59392/3/Digestive_Enzymes_Marine_Species.pdf
 
-Digestive enzyme in marine fishes II: Amylase activity
+	- Digestive enzyme in marine fishes II: Amylase activity
 http://digital.csic.es/bitstream/10261/59390/3/Digestive_Enzymes_II.pdf
 
 
