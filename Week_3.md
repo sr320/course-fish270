@@ -150,4 +150,72 @@ http://digital.csic.es/bitstream/10261/59392/3/Digestive_Enzymes_Marine_Species.
 	- Digestive enzyme in marine fishes II: Amylase activity
 http://digital.csic.es/bitstream/10261/59390/3/Digestive_Enzymes_II.pdf
 
+#8. Osmoregulation and excretion
+
+Basic concepts in Osmoregulation (Ch 43, pp. 862-868):
+	- What is osmoregulation?
+	- Osmotic and ionic homeostasis
+	- The laws of diffusion and osmosis, Figure 43.1, Ch 43, pp. 863
+	- Isotonic, hypertonic and hypotonic environments
+	- Osmotic stress when the organism is not in an isotonic environment. Two strategies:
+		- Osmoconformers
+			- Most of marine invertebrates are osmoconformes
+			- Seawater is isosmotic with respect to tissue in these species
+			- Although they do not compensate for changes in external osmolarity, osmoconformers often live in water that has a very stable composition and, hence, they have a very constant internal osmolarity
+		- Osmoregulators:
+			- Enables animals to live in environments that are uninhabitable to osmoconformers, such as freshwater and terrestrial habitats.
+			- Marine and freshwater vertebrates are osmoregulators, as they have to regulate osmolarity inside their bodies to achieve homeostasis:
+				- Vertebrates in freshwater are hiperosmotic with respect to their environment
+				- Vertebrates in marine water are hipoosmotic with respect to their environment
+				- In terms of water balance, land vertebrates are similar to marine vertebrates: they constantly lose water to the environment
+				- 
+- Whenever animals maintain an osmolarity difference between the body and the external environment, osmoregulation has energy cost:
+	- Because diffusion tends to equalize concentrations in a system, osmoregulators must expend energy to maintain the osmotic gradients via active transport.
+	- The energy costs depend mainly on how different an animal’s osmolarity is from its surroundings, how easily water and solutes can move across the animal’s surface, and how much membrane-transport work is required to pump solutes.
+	- Osmoregulation accounts for nearly 5% of the resting metabolic rate of many marine and freshwater bony fishes.
+	
+- Most animals, whether osmoconformers or osmoregulators, cannot tolerate substantial changes in external osmolarity and are said to be stenohaline.
+- In contrast, euryhaline animals (which include both some osmoregulators and osmoconformers) can survive large fluctuations in external osmolarity.
+
+- Osmoregulation in marine organisms (Ch 43, pp 866-868). Marine vertebrates and some marine invertebrates are osmoregulators. For most of these animals, the ocean is a strongly dehydrating environment because it is much saltier than internal fluids, and water is lost from their bodies by osmosis.
+	- Marine bony fishes are hypoosmotic to seawater and constantly lose water by osmosis and gain salt by diffusion and from the food they eat (Fig. 43.2, Ch 43, pp. 863)
+	- The fishes balance water loss by drinking seawater and actively transporting chloride ions out through their skin and gills
+	- Marine kidneys have small or absent glomeruli, so little water is taken out of the blood, but long collecting tubules in order to excrete as much salt as possible.
+	- They produce very little urine
+
+Functioning of chloride cells in gills of marine species (Ch43, pp. 868)
+One of the fundamental structures with which fishes regulate their internal ions and maintain osmotic homeostasis is the chloride cell (or mitonchondria-rich cell), located in the gills. There is a GREAT illustration at SW vs. FW at: http://www.bio.umass.edu/biology/mccormick/Cl_cell.html
+
+- Osmoregulation in elasmobranch fishes (Ch 43, pp 866-868). 
+Marine sharks and most other cartilaginous fishes (chondrichthyans) use a different osmoregulatory “strategy.”
+	- Like bony fishes, salts diffuse into the body from seawater, and these salts are removed by the kidneys, a special organ called the rectal gland, or in feces.
+	- However, UNLIKE bony fishes, marine sharks do not experience a continuous osmotic loss because high concentrations of urea and trimethylamine oxide (TMAO, which protects proteins from damage by urea) in body fluids leads to an osmolarity similar or slightly higher than seawater.
+	- Consequently, elasmobranch fishes are generally considered osmoconformers (although in some cases water slowly ENTERS the shark’s body by osmosis and in food, and is removed in urine)
+	- Rectal gland in sharks
+
+- Osmoregulation in freshwater organisms (Ch 43, pp 868). Freshwater animals are constantly gaining water by osmosis and losing salts by diffusion (Fig. 43.3, Ch 43, pp. 864)
+	- This happens because the osmolarity of their internal fluids is much higher than that of their surroundings.
+	- The body fluids of most freshwater animals have lower solute concentrations than those of marine animals, an adaptation to their low-salinity freshwater habitat.
+	- The relatively short collecting tubules of the freshwater fish kidney allow for reuptake of a lot of salt, while excluding almost all the water. Many freshwater animals maintain water balance by excreting large amounts of very dilute urine, and regaining lost salts in food and by active uptake of salts from their surroundings.
+	- Functioning of chloride cells in gills of freshwater species (Ch43, pp. 868). Check: http://www.bio.umass.edu/biology/mccormick/Cl_cell.html
+
+- Eurihaline organisms
+	- Salmon and other euryhaline fishes that migrate between seawater and freshwater undergo dramatic and rapid changes in osmoregulatory status.
+	- While in the ocean, salmon osmoregulate as other marine fishes do, by drinking seawater and excreting excess salt from the gills.
+	- When they migrate to fresh water, salmon cease drinking, begin to produce lots of dilute urine, and their gills start taking up salt from the dilute environment—the same as fishes that spend their entire lives in fresh water.
+
+- Types of nitrogenous waste: Impact on water balance (Ch 43, pp. 865-866)
+Nitrogen excretion is the pathway by which animals excrete ammonia, the toxic nitrogenous end product of protein catabolism. The process for expelling ammonia, or metabolic alternatives such as urea and uric acid, is linked to the control of osmotic and ionic homeostasis
+	- Forms of Nitrogenous waste vary among species
+		- Fresh water and marine fish excrete ammonia through their gills
+		- Fresh water species also eliminate ammonia through watery urine
+	- Ammonia poisoning in aquariums.
+
+Links of interest:
+
+- Good presentation that we can use- it might be a little too advanced for an introductory level, but we can use lot of the info there contained
+http://classes.uleth.ca/201003/biol3420a/Lectures/BIO3420.2010.10.1%20Ion%20and%20water%20balance%20Part1%2008Nov10.pdf
+
+- Review article: Ammonia and urea transporters in gills of fish and aquatic crustacean
+http://jeb.biologists.org/content/212/11/1716.long
 
