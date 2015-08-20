@@ -153,7 +153,7 @@ http://digital.csic.es/bitstream/10261/59390/3/Digestive_Enzymes_II.pdf
 
 #8. Osmoregulation and excretion
 
-Basic concepts in Osmoregulation (Ch 43, pp. 862-868):
+Basic concepts in Osmoregulation (Ch 43, pp. 862-868)
 	- What is osmoregulation?
 	- Osmotic and ionic homeostasis
 	- The laws of diffusion and osmosis, Figure 43.1, Ch 43, pp. 863
