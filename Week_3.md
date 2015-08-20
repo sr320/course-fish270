@@ -10,4 +10,5 @@
   - However, there are some important considerations in fishes –This is taken from “Fish Nutrition in Aquaculture” by S.S. de Silva, T.A. Anderson. Examples:
     - Presence/absence of stomach
     - Length of intestine
-  https://cloud.githubusercontent.com/assets/13633831/9397688/244f060e-4754-11e5-83a3-7376e5107226.JPG
+    
+  ![stomach] https://cloud.githubusercontent.com/assets/13633831/9397688/244f060e-4754-11e5-83a3-7376e5107226.JPG
