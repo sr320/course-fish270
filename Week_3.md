@@ -104,6 +104,7 @@ Taken from “Fish Nutrition in Aquaculture” by S.S. de Silva, T.A. Anderson
 
 Taken from “Fish Nutrition in Aquaculture” by S.S. de Silva, T.A. Anderson
 
+
 	- Most nutrient absorption occurs in the intestine
 	- Cross-section of the intestinal luma shows that it is highly convoluted, increasing surface area
 	- Absorption through membrane is either by:
