@@ -180,6 +180,7 @@ http://digital.csic.es/bitstream/10261/59390/3/Digestive_Enzymes_II.pdf
 				- Vertebrates in freshwater are hiperosmotic with respect to their environment
 				- Vertebrates in marine water are hipoosmotic with respect to their environment
 				- In terms of water balance, land vertebrates are similar to marine vertebrates: they constantly lose water to the environment
+![osmoregulationFWSW](https://cloud.githubusercontent.com/assets/13633831/9415521/ccfa7dc4-47f4-11e5-8022-603c2333f4d4.jpg)
 				
 - Whenever animals maintain an osmolarity difference between the body and the external environment, osmoregulation has energy cost:
 	- Because diffusion tends to equalize concentrations in a system, osmoregulators must expend energy to maintain the osmotic gradients via active transport.
