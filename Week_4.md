@@ -27,22 +27,22 @@ XXX
 
   - More complex animals have:
     	- Open circulatory system (Ch. 45, pp 916-917)
-	      - Hemolymph empties into hemocoel and bathes tissue and organs directly
-	      - Lack of discrete continuous vessels: Heart-vessel-hemolymph-vessel-heart
- 	      - Low pressure, high volume (up to 40% of body mass)
-	      - Animal typically has hard shell or exoskeleton
-        	- Arthropods, most of mollusk but NO cephalopods (fast moving animals, they also have 3 hearts)
+    		- Hemolymph empties into hemocoel and bathes tissue and organs directly
+    		- Lack of discrete continuous vessels: Heart-vessel-hemolymph-vessel-heart
+    		- Low pressure, high volume (up to 40% of body mass)
+    		- Animal typically has hard shell or exoskeleton
+    		- Arthropods, most of mollusk but NO cephalopods (fast moving animals, they also have 3 hearts)
 
   	- Close circulatory system (Ch. 45, pp 917-918)
-	    - Blood remains in vessels; capillaries allow close contact between blood and tissues
-	    - Important advantage: blood can be directed in a precise way in response to the tissues’ needs
-	    - High pressure and low volume (5-10% of body mass)
-	    - All vertebrates and cephalopods
+  		- Blood remains in vessels; capillaries allow close contact between blood and tissues
+  		- Important advantage: blood can be directed in a precise way in response to the tissues’ needs
+  		- High pressure and low volume (5-10% of body mass)
+  		- All vertebrates and cephalopods
 	
     - Structure and function of blood vessels
-		  - Arteries
-      - Capillaries
-      - Veins
+    	- Arteries
+    	- Capillaries
+    	- Veins
 	
 - Microcirculation
 http://ocw.unican.es/ciencias-de-la-salud/fisiologia-humana-2011-g367/material-de-clase/bloque-tematico-1.-fisiologia-del-aparato/tema-7.-circulacion-capilar/tema-7.-circulacion-capilar
