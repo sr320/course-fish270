@@ -26,14 +26,14 @@ XXX
 	    - Jellyfish and corals have a large, highly folded gastrovascular cavity –Revise concepts from lecture 6 Nutrition: basic concepts and feeding invertebrates
 
   - More complex animals have:
-    - Open circulatory system (Ch. 45, pp 916-917)
+    	- Open circulatory system (Ch. 45, pp 916-917)
 	      - Hemolymph empties into hemocoel and bathes tissue and organs directly
 	      - Lack of discrete continuous vessels: Heart-vessel-hemolymph-vessel-heart
  	      - Low pressure, high volume (up to 40% of body mass)
 	      - Animal typically has hard shell or exoskeleton
-        - Arthropods, most of mollusk but NO cephalopods (fast moving animals, they also have 3 hearts)
+        	- Arthropods, most of mollusk but NO cephalopods (fast moving animals, they also have 3 hearts)
 
-  - Close circulatory system (Ch. 45, pp 917-918)
+  	- Close circulatory system (Ch. 45, pp 917-918)
 	    - Blood remains in vessels; capillaries allow close contact between blood and tissues
 	    - Important advantage: blood can be directed in a precise way in response to the tissues’ needs
 	    - High pressure and low volume (5-10% of body mass)
