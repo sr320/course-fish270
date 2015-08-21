@@ -11,12 +11,12 @@
     - Presence/absence of stomach
     - Length of intestine
     
-We will divide this lecture in these main sections:
-- Oral cavity (jaw, teeth, pharyngeal jaw and gill rakers)
-- Stomach (gizzard and stomach)
-- Piloric caeca
-- Intestine (intestine and spiral valve)
-- Rectum
+-We will divide this lecture in these main sections:
+	- Oral cavity (jaw, teeth, pharyngeal jaw and gill rakers)
+	- Stomach (gizzard and stomach)
+	- Piloric caeca
+	- Intestine (intestine adn spiral valve)
+	- Rectum
 
 
 - Jaw
