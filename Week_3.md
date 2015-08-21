@@ -220,3 +220,13 @@ http://classes.uleth.ca/201003/biol3420a/Lectures/BIO3420.2010.10.1%20Ion%20and%
 - Review article: Ammonia and urea transporters in gills of fish and aquatic crustacean
 http://jeb.biologists.org/content/212/11/1716.long
 
+#Lab work
+- My first option for the lab this week was to develop an activity on osmoregulation. This option is very interesting because we can observe how the animal responds to different environmental salinities in terms of
+	- Hematocrit
+	- Plasma osmolarity (using osmometer) and ionic composition (we can do use a colorimetric reaction using a spectrometer)
+	- Gill Na/K-ATPase (also using colorimetry)
+However, this activity involves the use of euryhaline fishes –I am not sure about the availability of fish or the situation with the IACUC -If you think this is a good idea, I can check and start the process for the approval.
+
+- The second option is related to digestive physiology and does not require the use of animals. We can develop a lab to analyze the effect of pH on the activity of two protease enzymes: pepsin (max activity in stomach environment under low pH 2 aprox) and trypsin (max activity in intestinal environment under neutral pH 7 aprox).
+In this lab the effect of these two enzymes under different pH on boiled egg white is analyzed. 
+This is a pretty straight forward activity that we can complete with other enzymes, or with material from the lecture.
