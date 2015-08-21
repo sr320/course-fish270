@@ -36,7 +36,9 @@
     - Gill-arch hypothesis: mutation and natural selection increased the size of the most anterior arch and modified its orientation, producing the first working jaw (Ch 35, pp 692). 
 
 - Teeth
-  - Similar to other animals, fish have evolved to have different types of teeth depending on their diets. Examples: 
+  - Similar to other animals, fish have evolved to have different types of teeth depending on their diets. Examples:
+  ![fishteeth](https://cloud.githubusercontent.com/assets/13633831/9414897/aabc3256-47f0-11e5-8d72-037b55f3bcfe.JPG) 
+  
   - Other facts:
     - Most of sharks and rays, as well as other predator fishes, have polyphyodont teeth- teeth are continually replaced as they wear out or are lost. When a tooth or some teeth need to be replaced the gum moves forward pulling the new teeth both forward and erect
     - In other predator fishes the new teeth grow either at the base of the old teeth, or in between the old teeth when these teeth are not too closely packed.
@@ -48,7 +50,9 @@
   - Bony or cartilaginous processes that project from the branchial arch (gill arch) and are involved with suspension feeding tiny prey
   - The structure and spacing of gill rakers in fish determines the size of food particles trapped, and correlates with feeding behavior. 
   - Fish with densely spaced, elongated, comb-like gill rakers are efficient at filtering tiny prey, whereas carnivores and omnivores often have more widely spaced gill rakers with secondary projections
-  
+   
+  ![gillrakers](https://cloud.githubusercontent.com/assets/13633831/9415061/8e6be80c-47f1-11e5-982f-a9b4b7a0142c.jpg)
+
 - Gizzard (see avian gizzard in Ch 44, pp 891-892)
   - Found in relatively few fish species
   - The gizzard is a highly muscular modification of the first part of the stomach. It grinds up coarse food items into smaller pieces thus facilitating their later digestion. 
@@ -63,7 +67,11 @@
 
   - Fish WITH stomach
     - Where a true stomach is found to exist it is a muscular bag, or tube with a highly acidic internal environment.
-    - All pure predators have stomach: Large stomach in carnivorous, and small stomach in herbivorous and omnivorous: digestion of proteins
+    - All pure predators have stomach: Large stomach in carnivorous (see salmon stomach), and small stomach in herbivorous and omnivorous: digestion of proteins
+     
+    ![salmon stomach](https://cloud.githubusercontent.com/assets/13633831/9414960/f0beae6e-47f0-11e5-816e-e40af5d79487.JPG) 
+     
+     
     - Function of pepsins
 	    - Pepsinogen (zymogen) and pepsin
       - Need of an acidic environment in the stomach 
@@ -83,14 +91,18 @@
 		- Carnivorous, have fairly short intestines because such food is easy to chemically break down and digest. 
 		- Herbivorous, require longer intestines because plant matter is usually tough and fibrous and more difficult to break down into usable components. 
   	- Relative gut length (RGL), high RGL in species consuming detritus, algae etc. (high proportion of indigestible matter), in: 
-(TABLE 1 and FIGURE 2)
-	
+
+![tableRGL](https://cloud.githubusercontent.com/assets/13633831/9414950/df970050-47f0-11e5-8c9f-38e71b04fc9b.JPG)
+
+
 	- Digestive process in the intestine:
 		- Chyme entering the small intestine stimulates secretions from the pancreas and gallbladder (bile)
 		- Pancreatic secretions include bicarbonates (e.g., HCO3- ) which buffer acidity of the chyme
 		- When bile (gallbladder) enters in the intestine, it raises the pH and emulsifies fat. Once fats are broken into small globules, which increase their surface area, they can be attacked by pancreatic lipases and digested.  
 		- Suite of enzymes in the intestinal environment (see table 44.3-digestive enzymes in mammals, Ch 44, pp. 895). Also digestive fluids and enzymes in fishes:Note: we can complete this part of the lecture (digestive enzymes) in the lab -See notes in Lab activity.
-(TABLE 2 and 3)
+
+![table enzymes](https://cloud.githubusercontent.com/assets/13633831/9414931/cb09f25a-47f0-11e5-95c5-d8ba249a5c25.JPG)
+![changesinintestinelength](https://cloud.githubusercontent.com/assets/13633831/9414936/d2fce828-47f0-11e5-8fa4-da941c5242ae.JPG)
 
 	- Most nutrient absorption occurs in the intestine
 	- Cross-section of the intestinal luma shows that it is highly convoluted, increasing surface area
