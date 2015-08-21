@@ -241,8 +241,9 @@ http://jeb.biologists.org/content/212/11/1716.long
 	- Hematocrit
 	- Plasma osmolarity (using osmometer) and ionic composition (we can do use a colorimetric reaction using a spectrometer)
 	- Gill Na/K-ATPase (also using colorimetry)
-However, this activity involves the use of euryhaline fishes –I am not sure about the availability of fish or the situation with the IACUC -If you think this is a good idea, I can check and start the process for the approval.
+- However, this activity involves the use of euryhaline fishes –I am not sure about the availability of fish or the situation with the IACUC -If you think this is a good idea, I can check and start the process for the approval.
 
 - The second option is related to digestive physiology and does not require the use of animals. We can develop a lab to analyze the effect of pH on the activity of two protease enzymes: pepsin (max activity in stomach environment under low pH 2 aprox) and trypsin (max activity in intestinal environment under neutral pH 7 aprox).
 In this lab the effect of these two enzymes under different pH on boiled egg white is analyzed. 
-This is a pretty straight forward activity that we can complete with other enzymes, or with material from the lecture.
+This is a pretty straight forward activity that we can complete with other enzymes (see http://www.indiana.edu/~nimsmsf/P215/p215notes/LabManual/Lab12.pdf), or with material from the lecture.
+- Note: all the reagents are available for a reasonable prize at sigma (https://www.sigmaaldrich.com/united-states.html)-although I am pretty we can find a cheaper company if we decide to do this lab- 
