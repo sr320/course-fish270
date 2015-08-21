@@ -13,49 +13,43 @@
     
     ![digestivesystems](https://cloud.githubusercontent.com/assets/13633831/9397688/244f060e-4754-11e5-83a3-7376e5107226.JPG)
 
-
--We will divide this lecture in these main sections:
+- We will divide this lecture in these main sections:
 	- Oral cavity (jaw, teeth, pharyngeal jaw and gill rakers)
 	- Stomach (gizzard and stomach)
 	- Piloric caeca
 	- Intestine (intestine adn spiral valve)
 	- Rectum
 
-
 - Jaw
-  - Jawless fish (Ch 35, pp. 697)
-    - Cyclostomes (“round mouth”, or agnathans): hagfish and lampreys
-    - Do not have jaw-only jawless vertebrates
-    - Most primitive group of fishes
-    - Their mouths cannot close due to the lack of a jaw, so they have to constantly cycle water through the mouth. 
-    - Interesting fact: some hagfish can absorb nutrients through their skin- See links of interest. 
-
-  - Jawed fish 
-    - Gnathostomes: chondrichthyes (cartilaginous fishes) and osteichthyes (bony fishes)
-    - The evolution of jaws allowed gnathostomes to become effective predators and accounted for much of their subsequent success
-    - Gill-arch hypothesis: mutation and natural selection increased the size of the most anterior arch and modified its orientation, producing the first working jaw (Ch 35, pp 692). 
+	- Jawless fish (Ch 35, pp. 697)
+		- Cyclostomes (“round mouth”, or agnathans): hagfish and lampreys
+		- Do not have jaw-only jawless vertebrates
+		- Most primitive group of fishes
+		- Their mouths cannot close due to the lack of a jaw, so they have to constantly cycle water through the mouth
+		- Interesting fact: some hagfish can absorb nutrients through their skin- See links of interest. 
+	- Jawed fish
+		- Gnathostomes: chondrichthyes (cartilaginous fishes) and osteichthyes (bony fishes)
+		- The evolution of jaws allowed gnathostomes to become effective predators and accounted for much of their subsequent success
+		- Gill-arch hypothesis: mutation and natural selection increased the size of the most anterior arch and modified its orientation, producing the first working jaw (Ch 35, pp 692). 
 
 - Teeth
-  - Similar to other animals, fish have evolved to have different types of teeth depending on their diets. Examples:
+	- Similar to other animals, fish have evolved to have different types of teeth depending on their diets. Examples:
   ![fishteeth](https://cloud.githubusercontent.com/assets/13633831/9414897/aabc3256-47f0-11e5-8d72-037b55f3bcfe.JPG) 
-  
-  - Other facts:
-    - Most of sharks and rays, as well as other predator fishes, have polyphyodont teeth- teeth are continually replaced as they wear out or are lost. When a tooth or some teeth need to be replaced the gum moves forward pulling the new teeth both forward and erect
-    - In other predator fishes the new teeth grow either at the base of the old teeth, or in between the old teeth when these teeth are not too closely packed.
+  	- Other facts:
+    		- Most of sharks and rays, as well as other predator fishes, have polyphyodont teeth- teeth are continually replaced as they wear out or are lost. When a tooth or some teeth need to be replaced the gum moves forward pulling the new teeth both forward and erect
+    		- In other predator fishes the new teeth grow either at the base of the old teeth, or in between the old teeth when these teeth are not too closely packed.
 
 - Pharyngeal jaw
-  - Located in the back of the throat and makes food processing particularly efficient. A case study: The cichlid jaw, Ch 44, pp 884-886.
+	- Located in the back of the throat and makes food processing particularly efficient. A case study: The cichlid jaw, Ch 44, pp 884-886
 
 - Gill rakers
-  - Bony or cartilaginous processes that project from the branchial arch (gill arch) and are involved with suspension feeding tiny prey
-  - The structure and spacing of gill rakers in fish determines the size of food particles trapped, and correlates with feeding behavior. 
-  - Fish with densely spaced, elongated, comb-like gill rakers are efficient at filtering tiny prey, whereas carnivores and omnivores often have more widely spaced gill rakers with secondary projections
-   
-  ![gillrakers](https://cloud.githubusercontent.com/assets/13633831/9415061/8e6be80c-47f1-11e5-982f-a9b4b7a0142c.jpg)
-
+	- Bony or cartilaginous processes that project from the branchial arch (gill arch) and are involved with suspension feeding tiny prey
+	- The structure and spacing of gill rakers in fish determines the size of food particles trapped, and correlates with feeding behavior
+	- Fish with densely spaced, elongated, comb-like gill rakers are efficient at filtering tiny prey, whereas carnivores and omnivores often have more widely spaced gill rakers with secondary projections
+     ![gillrakers](https://cloud.githubusercontent.com/assets/13633831/9415061/8e6be80c-47f1-11e5-982f-a9b4b7a0142c.jpg)
 - Gizzard (see avian gizzard in Ch 44, pp 891-892)
-  - Found in relatively few fish species
-  - The gizzard is a highly muscular modification of the first part of the stomach. It grinds up coarse food items into smaller pieces thus facilitating their later digestion. 
+	- Found in relatively few fish species
+  - The gizzard is a highly muscular modification of the first part of the stomach. It grinds up coarse food items into smaller pieces thus facilitating their later digestion
   - In those fish which have a gizzard (e.g., mullet or shad) it is the place where digestion begins because as well as its muscular activity the gizzard also secretes digestive enzymes into the food
 
 - Stomach (Ch 44, pp 889-892)
