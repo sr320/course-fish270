@@ -34,10 +34,12 @@
 
 - Teeth
 	- Similar to other animals, fish have evolved to have different types of teeth depending on their diets. Examples:
-  ![fishteeth](https://cloud.githubusercontent.com/assets/13633831/9414897/aabc3256-47f0-11e5-8d72-037b55f3bcfe.JPG) 
-  	- Other facts:
-    		- Most of sharks and rays, as well as other predator fishes, have polyphyodont teeth- teeth are continually replaced as they wear out or are lost. When a tooth or some teeth need to be replaced the gum moves forward pulling the new teeth both forward and erect
-    		- In other predator fishes the new teeth grow either at the base of the old teeth, or in between the old teeth when these teeth are not too closely packed.
+	![fishteeth](https://cloud.githubusercontent.com/assets/13633831/9414897/aabc3256-47f0-11e5-8d72-037b55f3bcfe.JPG)
+This picture shows three common types of teeth that can be found in many of the different species of bony fish. The first type of tooth shown, the canine, is typical of most carnivores. The canine is a long tooth that is generally shaped like a cone and is either straight or curved. These teeth are used for piercing and holding the fish's food, much like the canine teeth found in dogs or humans. The second type of tooth depicted, the molar, is generally found in bottom dwelling fish such as skates and chimaeras. They are flat, broad teeth used for crushing and grinding food like mollusks. The third diagram shows incisors. Incisors are used for cutting and they come in a variety of all different shapes that range from the same shape as human incisors, to the shape of a saw-edge or even fused into the "beak" of a Parrotfish like the fourth diagram in the picture shows. Information form: http://www.flmnh.ufl.edu/fish/Education/Diagrams/FishTeeth.html
+
+  	- Other facts
+  		- Most of sharks and rays, as well as other predator fishes, have polyphyodont teeth- teeth are continually replaced as they wear out or are lost. When a tooth or some teeth need to be replaced the gum moves forward pulling the new teeth both forward and erect
+  		- In other predator fishes the new teeth grow either at the base of the old teeth, or in between the old teeth when these teeth are not too closely packed.
 
 - Pharyngeal jaw
 	- Located in the back of the throat and makes food processing particularly efficient. A case study: The cichlid jaw, Ch 44, pp 884-886
@@ -65,18 +67,19 @@
      
     ![salmon stomach](https://cloud.githubusercontent.com/assets/13633831/9414960/f0beae6e-47f0-11e5-816e-e40af5d79487.JPG) 
      
-     
+ Atlantic salmon stomach sampled at West Greenland. This fish was feeding exclusively on capelin, an energy rich abundant prey, which serves as the primary food source for salmon in Greenland. Credit: Denise Deschamps, Ministère des Ressources naturelles et de la Faune du Québec-From NOAA
+
     - Function of pepsins
 	    - Pepsinogen (zymogen) and pepsin
       - Need of an acidic environment in the stomach 
 	    - In fishes gastric acid (composed by HCl) and pepsinogen are secreted from the so-called  oxynticopeptic cells
-      - In most fish the pH of the stomach varies between 2 and 4. See the optimum PH to activate pepsin in a number of fish species at: http://www.omicsonline.org/extraction-purification-and-characterization-of-fish-pepsin-a-critical-review-2157-7110.1000126.pdf
-    - Curiosity about versatility of stomachs- The black swallower feeds on bony fishes, which are swallowed whole. With its greatly distensible stomach, it is capable of swallowing prey over twice its length and 10 times its mass
+	    - In most fish the pH of the stomach varies between 2 and 4. See the optimum PH to activate pepsin in a number of fish species at: http://www.omicsonline.org/extraction-purification-and-characterization-of-fish-pepsin-a-critical-review-2157-7110.1000126.pdf
+      - Curiosity about versatility of stomachs- The black swallower feeds on bony fishes, which are swallowed whole. With its greatly distensible stomach, it is capable of swallowing prey over twice its length and 10 times its mass
 
 - Piloric caeca
-  - Organ with fingerlike projections is located near the junction of the stomach and the intestines
-  - It secretes trypsin and enzymes active in the intestines, it is also considered likely that they are important in neutralizing the acidity of the chyme (i.e., mixture of gastric juices, digesta and mucus) before it reaches the intestines, where the environment is alkaline in contrast to the stomachs acidity
-- It is possible that the pyloric caeca play a fuller or more complex role in the digestive cycle in some groups of fish than they do in others
+	- Organ with fingerlike projections is located near the junction of the stomach and the intestines
+	- It secretes trypsin and enzymes active in the intestines, it is also considered likely that they are important in neutralizing the acidity of the chyme (i.e., mixture of gastric juices, digesta and mucus) before it reaches the intestines, where the environment is alkaline in contrast to the stomachs acidity
+	- It is possible that the pyloric caeca play a fuller or more complex role in the digestive cycle in some groups of fish than they do in others
 
 - Intestine (Ch 44, pp 892-897)
 	- The intestine is a long thin tube with a thin double layer musculature, the outer layer being longitudinal and the inner layer being circular.
