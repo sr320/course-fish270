@@ -17,7 +17,7 @@
 	- Oral cavity (jaw, teeth, pharyngeal jaw and gill rakers)
 	- Stomach (gizzard and stomach)
 	- Piloric caeca
-	- Intestine (intestine adn spiral valve)
+	- Intestine (intestine and spiral valve)
 	- Rectum
 
 - Jaw
@@ -90,8 +90,6 @@ This picture shows three common types of teeth that can be found in many of the 
   	- Relative gut length (RGL), high RGL in species consuming detritus, algae etc. (high proportion of indigestible matter), in: 
 
 ![tableRGL](https://cloud.githubusercontent.com/assets/13633831/9414950/df970050-47f0-11e5-8c9f-38e71b04fc9b.JPG)
-
-
 	- Digestive process in the intestine:
 		- Chyme entering the small intestine stimulates secretions from the pancreas and gallbladder (bile)
 		- Pancreatic secretions include bicarbonates (e.g., HCO3- ) which buffer acidity of the chyme
@@ -100,7 +98,6 @@ This picture shows three common types of teeth that can be found in many of the 
 
 ![table enzymes](https://cloud.githubusercontent.com/assets/13633831/9414931/cb09f25a-47f0-11e5-95c5-d8ba249a5c25.JPG)
 ![changesinintestinelength](https://cloud.githubusercontent.com/assets/13633831/9414936/d2fce828-47f0-11e5-8fa4-da941c5242ae.JPG)
-
 	- Most nutrient absorption occurs in the intestine
 	- Cross-section of the intestinal luma shows that it is highly convoluted, increasing surface area
 	- Absorption through membrane is either by:
