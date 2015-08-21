@@ -3,14 +3,14 @@
 To support continued production of ATP, cells have to obtain oxygen and expel excess of CO2 continuously. Revise concepts from lecture 4 on “Bioenergetics”
 
 - Basic concepts
-	In general gas exchange involves four steps (Ch 45, pp 903)
-		1.	Ventilation
-		2.	Gas exchange in respiratory surface
-		3.	Circulation
-		4.	Cellular respiration
-	Steps 1 and 2 are the respiratory system
-	Step 3 is the circulatory system
-	In vertebrates: The circulatory system + Gas exchange organs = Cardiovascular system, (Fig. 45.1, Ch 45, pp. 903)
+	- In general gas exchange involves four steps (Ch 45, pp 903)
+		- 1.	Ventilation
+		- 2.	Gas exchange in respiratory surface
+		- 3.	Circulation
+		- 4.	Cellular respiration
+	- Steps 1 and 2 are the respiratory system
+	- Step 3 is the circulatory system
+	- In vertebrates: The circulatory system + Gas exchange organs = Cardiovascular system, (Fig. 45.1, Ch 45, pp. 903)
 
 - This lecture will be divided in two sections
   - The respiratory system
