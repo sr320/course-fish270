@@ -11,7 +11,7 @@
     - Presence/absence of stomach
     - Length of intestine
     
-    ![digestivesystems]https://cloud.githubusercontent.com/assets/13633831/9397688/244f060e-4754-11e5-83a3-7376e5107226.JPG
+    ![digestivesystems](https://cloud.githubusercontent.com/assets/13633831/9397688/244f060e-4754-11e5-83a3-7376e5107226.JPG)
 
 
 -We will divide this lecture in these main sections:
