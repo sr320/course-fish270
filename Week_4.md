@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=HhUiY_RLg_g
 #10 Gas exchange
 - Overview
 	- To support continued production of ATP, cells have to obtain O2 and expel excess of CO2 continuously. Revise concepts from lecture 4 on “Bioenergetics”
-(Figure 1)
+![fig1](https://cloud.githubusercontent.com/assets/13633831/9481477/991aa59e-4b3f-11e5-94b8-25b3fca5619c.jpg)
 
 - Basic concepts
 	- Gas exchange is the uptake of molecular O2 from the environment and the discharge of carbon dioxide CO2 to the environment.
