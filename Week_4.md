@@ -87,3 +87,145 @@ http://www.jstor.org/stable/30156237?seq=1#page_scan_tab_contents
 
 Microcirculation
 https://www.youtube.com/watch?v=HhUiY_RLg_g
+
+
+#10 Gas exchange
+- Overview
+	- To support continued production of ATP, cells have to obtain O2 and expel excess of CO2 continuously. Revise concepts from lecture 4 on “Bioenergetics”
+(Figure 1)
+
+- Basic concepts
+	- Gas exchange is the uptake of molecular O2 from the environment and the discharge of carbon dioxide CO2 to the environment.
+	- In general gas exchange involves four steps (Ch 45, pp 903; Fig. 45.1, Ch 45, pp. 903)
+		- Ventilation
+		- Gas exchange in respiratory surface
+		- Circulation (previous lecture)
+		- Cellular respiration 
+	- Steps 1 and 2 are the respiratory system
+	- Step 3 is the circulatory system- Revise key concepts from previous lecture
+
+- Revise concepts from previous lectures
+	- How do O2 and CO2 behave in water? (Ch. 45, pp. 904). Effects of
+		- Temperature
+		- Salinity
+		- Pressure
+	- Availability of O2 in aquatic environments (students should be familiar with these concepts from Marine Biology 250) (Ch. 45, pp. 904-905)
+		- Photosynthetic organisms, upwelling systems
+		- Surface vs. deep water
+		- Rapids, waterfalls, white waters, etc
+		- Dissolved O2 in water is much less than an equivalent volume of air
+
+- Organs of gas exchange (Ch. 45, pp 905-912)
+	- Movements of CO2 and O2 across the respiratory surface occur ENTIRELY BY DIFFUSION
+	- The respiratory surface of terrestrial and aquatic animals must be moist to maintain the cell membranes
+		- Fick’s law of diffusion (Ch. 45, pp 905-906). Rate of diffusion depends on 5 parameters:
+			- Solubility of the gas in the aqueous film lining the gas exchange surface
+			- Temperature
+			- Surface area
+			- Difference in partial pressure of the gas across the gas exchange surface
+			- Thickness of the barrier
+		- Therefore, respiratory surfaces tend to be thin and have large areas, maximizing the rate of gas exchange
+
+- Animals WITHOUT respiratory organs
+	- Gas exchange occurs over the entire surface area of protists and other unicellular organisms
+	- Similarly, for some relatively simple animals, such as sponges, cnidarians, and flatworms, the plasma membrane of every cell in the body is close enough
+	- However, in most animals, the bulk of the body lacks direct access to the respiratory medium
+	- Animals WITH dermal respiration
+		- Earthworms and some amphibians, use the entire outer skin as a respiratory organ
+		- Just below the moist skin is a dense net of capillaries
+		- However, because the respiratory surface must be moist, the possible habitats of these animals are limited to water or damp places
+		- Animals that use their moist skin as their only respiratory organ are usually small and are either long and thin or flat in shape, with a high ratio of surface area to volume
+
+- Animals WITH respiratory organs
+	- For most other animals, the general body surface lacks sufficient area to exchange gases for the entire body. The solution is a respiratory organ that is extensively folded or branched, enlarging the surface area for gas exchange. The three most common respiratory organs:
+		- Gills- found is most of aquatic animals, we’ll put more emphasis
+		- Lungs- marine mammals
+ 		- Tracheae-only in terrestrial insects
+
+- How do gills work? (Ch. 45, pp 906-907)
+	- In invertebrates, gills are simple shape and distributed over much of the body (e.g., sea star)
+		- Many segmented worms and nudibranchs have flap-like gills that extend from each body segment, or long feathery gills clustered at the head or tail
+		- The gills of clams, crayfish, and many other animals are restricted to a local body region
+	- The total surface area of gills is often much greater than that of the rest of the body
+	- Water has both advantages and disadvantages as a respiratory medium
+		- There is no problem keeping the cell membranes of the respiratory surface moist, since the gills are surrounded by the aqueous environment
+		- However, O2 concentrations in water are low, especially in warmer and saltier environments
+		- Thus, gills must be very effective to obtain enough oxygen
+	- Ventilation, which increases the flow of the respiratory medium over the respiratory surface, ensures that there is a strong diffusion gradient between the gill surface and the environment
+		- Crayfish and lobsters have paddle-like appendages that drive a current of water over their gills
+		- Most fishes open and close their mouth and operculum. The pumping action of the mouth and operculum creates a pressure gradient that moves water over the gills. 
+	- The fish gill is a countercurrent system: concurrent vs. countercurrent system (Ch. 45, pp 906-907, Fig. 45.5, and Fig. 45.6); also see in links of interest: Countercurrent circulation in fish gills 
+		- The countercurrent exchange mechanism is so efficient that the gills can remove more that 80% if the oxygen from water to blood
+
+- Critical thinking: Breathing air
+	- Advantages
+		- Air has a much higher concentration of oxygen
+Also, since O2 and CO2 diffuse much faster in air than in water, respiratory surfaces exposed to air do not have to be ventilated as thoroughly as gills
+		- When a terrestrial animal does ventilate, less energy is needed because air is far lighter and much easier to pump than water and much less volume needs to be breathed to obtain an equal amount of O2
+	- Disadvantages
+		- The respiratory surface, which must be large and moist, continuously loses water to the air by evaporation
+		- This problem is greatly reduced by a respiratory surface folded into the body
+
+- How do lungs work? (Ch. 45, pp 909-912)
+	- Basics concepts
+
+- How do insect tracheae work? (Ch. 45, pp 907-909)
+	- Basics concepts
+
+- How are O2 and CO2 transport in blood? (Ch. 45, pp 912-916)
+	- Oxygen transport
+		- O2 is highly insoluble in water, most of the O2 is bound to respiratory pigments
+		- A diversity of respiratory pigments has evolved in various animal taxa to support their normal energy metabolism:
+			- Hemocyanin, found in the hemolymph of arthropods and many molluscs
+			- Hemerythrin, found in in the marine invertebrate phyla of sipunculids, priapulids, brachiopods
+			- Chlorocruorin, found in marine polychaeta
+			- Hemoglobin, all vertebrates
+			- Hemoglobin
+	- Structure and function of hemoglobin (Ch. 45, pp. 912-913)
+		- The respiratory pigment of almost all vertebrates 
+		- Contained within red blood cells
+		- Hemoglobin consists of four subunits, each with a cofactor called a heme group that has an iron atom at its center
+		- Because iron actually binds the O2, each hemoglobin molecule can carry four molecules of O2
+		- Like all respiratory pigments, hemoglobin must bind oxygen reversibly, loading oxygen at the lungs or gills and unloading it in other parts of the body
+		- Loading and unloading depend on cooperation among the subunits of the hemoglobin molecule.
+		- The binding of O2 to one subunit induces the remaining subunits to change their shape slightly such that their affinity for oxygen increases
+		- When one subunit releases O2, the other three quickly follow suit as a conformational change lowers their affinity for oxygen.
+		- Cooperative oxygen binding and dissociation curve for hemoglobin (Ch. 45, pp 912-914)
+		- Effect of temperature and pH (Bohr Effect) on O2 unloading from hemoglobin (Ch. 45, pp 914)
+	
+- CO2 transport (Ch. 45, pp 915-916, Fig. 45.18)
+	- ~ 5% carried as free CO2 in solution
+	- ~ 10% of carbon dioxide binds to hemoglobin (carbaminohemoglobin) 
+	- ~ 85% carried in blood as bicarbonate hydrogen carbonate 
+		- Carbon dioxide from respiring cells diffuses into the blood plasma and then into red blood cells 
+		- The CO2 first reacts with water, assisted by the enzyme carbonic anhydrase, to form H2CO3, which then dissociates into a hydrogen ion H+ and a bicarbonate ion (HCO3−). This reaction maintains the partial pressure gradient favoring the entry of CO2 into red blood cells
+		- Most of the H+ attaches to hemoglobin and other proteins, minimizing the change in blood pH.
+		- The HCO3− diffuses into the plasma
+		- As blood flows through the lungs, the process is rapidly reversed as diffusion of CO2 out of the blood shifts the chemical equilibrium in favor of the conversion of HCO3− to CO2
+
+- If there is some extra time we can include some information about the adaptation of air-breathing aquatic animals
+	- When an air-breathing animal swims underwater, it lacks access to its normal respiratory medium.
+		- Most humans can hold their breath for only 2 to 3 minutes and swim to depths of 20 m or so
+		- However, a variety of seals, sea turtles, and whales can stay submerged for much longer times and reach much greater depths
+	- The Weddell seal of Antarctica can plunge to depths of 200–500 m and remain there from 20 minutes to more than an hour
+		- Elephant seals can dive to 1,500 m and stay submerged for up to 2 hours
+
+	- One adaptation of these deep-divers, such as the Weddell seal, is an ability to store large amounts of O2 in the tissues
+		- Compared to a human, a seal can store about twice as much O2 per kilogram of body weight, mostly in the blood and muscles.
+		- About 36% of our total O2 is in our lungs, and 51% is in our blood
+		- In contrast, the Weddell seal holds only about 5% of its O2 in its small lungs and stockpiles 70% in the blood.
+
+	- Several adaptations create these physiological differences between the seal and other deep-divers in comparison to humans.
+		- First, the seal has about twice the volume of blood per kilogram of body weight as a human
+		- Second, the seal can store a large quantity of oxygenated blood in its huge spleen, releasing this blood after the dive begins. The spleen can store about 24 L of blood.
+		- Third, diving mammals have a high concentration of an oxygen-storing protein called myoglobin in their muscles. This enables a Weddell seal to store about 25% of its O2 in muscle, compared to only 13% in humans.
+	- Diving vertebrates not only start a dive with a relatively large O2 stockpile, but they also have adaptations that conserve O2.
+		- They swim with little muscular effort and often use buoyancy changes to glide passively upward or downward
+		- Their heart rate and O2 consumption rate decrease during the dive, and most blood is routed to the brain, spinal cord, eyes, adrenal glands, and placenta (in pregnant seals)-Characteristic of a close circulatory system!
+		- Blood supply is restricted or even shut off to the muscles, and the muscles can continue to derive ATP from fermentation after their internal O2 stores are depleted.
+		- During dives of more than 20 minutes, a Weddell seal’s muscles deplete the O2 stored in myoglobin and then derive ATP from fermentation instead of respiration
+
+
+Link of interest
+Countercurrent circulation in fish gills 
+https://www.youtube.com/watch?v=rlC8fXRmVZ0
