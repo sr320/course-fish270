@@ -272,4 +272,70 @@ https://www.youtube.com/watch?v=rlC8fXRmVZ0
 		- Diversity
 		- Memory
 		- Self-nonself recognition
+*Note: I believe that the Review of the immune system by Khan Academy (8 videos) is an excellent way to approach this lecture (see links of interest). 
+
+- General characteristics of B- and T-cells (Ch. 51, pp1041-1047)
+	- The vertebrate body is populated by two main types of lymphocytes: B lymphocytes (B cells) and T lymphocytes (T cells).
+		- Lymphocytes that migrate from the bone marrow to the thymus develop into T cells.
+		- Lymphocytes that remain in the bone marrow and continue their maturation there become B cells –sharks, skates and rays do not have bones, and therefore bone marrow, but they synthesize B cells (see notes at the end)
+	- B and T cells recognize antigens by means of antigen-specific receptors embedded in their plasma membranes.
+	- A single B or T cell bears about 100,000 identical antigen receptors
+	- Because lymphocytes recognize and respond to particular microbes and foreign molecules, they are said to display specificity for a particular epitope on an antigen
+	- However, while the receptors on B cells recognize intact antigens, the receptors on T cells recognize small fragments of antigens that are bound to normal cell-surface proteins called MHC molecules
+	- MHC molecules are encoded by a family of genes called the major histocompatibility complex (MHC)
+
+- Activation of the adaptive immunity (Ch. 51, pp 1047-1051)
+	- T cell activation (Ch. 51, pp 1049, Fig. 51.12)
+		- Antigen is phagocytosed by an antigen presenting cells (mostly dendritic cells)
+		- Antigen presentation (links the innate and adaptive arms of the immune system, Ch. 51 pp 1049, Fig. 51.11)
+		- MHC proteins I interact with CD8+ T cells (develop into cytotoxic or killer)
+		- MHC proteins II interact with CD4+ T cells (differentiate into helpers)
+
+	- B cells activation (Ch. 51, pp 1051, Fig. 51.14)
+		- BCR binds antigen 
+		- BCR-antigen complex is internalized (NO phagocytosed)
+		- Digested fragments are loaded onto a MHC protein II (showing different epitopes on its surface)
+		- CD4+ T cell (effector T helper) with complementary receptor binds to the MHC-peptide complex on the B cell
+		- T helper releases cytokines and fully activate B cells
+		- Fully activated B cells replicates and produce memory B cells and effector B cells (plasma cells, which produce antibodies)
+
+	- Therefore, adaptive immune system can be subdivided in two types:
+		- Humoral immunity involves B cell activation and clonal selection and results in the production of antibodies that circulate in the blood plasma and lymph.
+			- Circulating antibodies defend mainly against free bacteria, toxins, and viruses in the body fluids.
+		- Cell-mediated immunity involves activation and clonal selection of cytotoxic T lymphocytes allows these cells to directly destroy certain target cells, including “nonself” cancer and transplant cells.
+			- The humoral and cell-mediated immune responses are linked by cell-signaling interactions, especially via helper T cells.
+
+- Memory of the adaptive immunity (CH. 51, pp 1051-1055)
+
+- Notes: B cells in sharks
+	- Sharks, skates, and rays lack a bony skeleton, and so do not have bone marrow 
+	- In mammals, immune cells are produced and mature in the bone marrow and other sites, and, after a brief lag time, these cells are mobilized to the bloodstream to fight invading substances. 
+	- In sharks, the immune cells are produced in the spleen, thymus and unique tissues associated with the gonads (epigonal organ) and esophagus (Leydig organ)
+	- Some maturation of these immune cells occurs at the sites of cell production, as with mammals. But studies have determined that a significant number of immune cells in these animals actually mature as they circulate in the bloodstream
+	- Like the ever-present IgM molecule, immune cells already in the shark's blood may be available to respond without a lag period, resulting in a more efficient immune response
+
+- Notes: Immune system in marine invertebrates 
+	- Little is known about the immune system in invertebrates
+	- Current evidence suggests that invertebrates lack cells analogous to lymphocytes, the white blood cells responsible for acquired, specific immunity in vertebrates.
+	- The predominant mechanism of marine invertebrate’s internal defense involves phagocytosis by immune cells (innate immune system)
+	- Even in animals such as the Cnidaria, which lack mobile phagocytes, hemolymph or an impermeable barrier to invading organisms active phagocytosis has been demonstrated, being carried out by ectodermal as well as endodermal epithelial cells
+	- Immune cells, or phagocytes, are particularly abundant in haemolymph,
+
+- Anti-predator adaptations-we can use this last part to light up the lecture
+	- Evolutionary success is measured in offspring produced or genetic contribution to the next generation, but to reproduce it is necessary to survive long enough to do so
+	- Mechanisms developed through evolution that assist prey organisms in their constant struggle against predators (some examples found in marine organisms)
+		- Avoiding detection
+			- Staying out of sight- e.g. Flatfishes
+			- Camouflage- e.g. cephalopods
+		- Warding off attack
+			- Starling the predator- e.g. cephalopods
+			- Defensive structures (spine, needle-like structures, etc.)- e.g. Sohal surgeonfish, cnidaria
+			- Distraction- e.g. mollusks
+			- Mimicry - e.g. cephalopods
+			- Group living- e.g. cardumenes
+		- Fighting back
+			- Chemical defense- e.g. pufferfish, hagfish (see video)
+		- Escaping
+			- Swim away
+			- Autotomy- e.g. certain sea slugs discard stinging papillae; arthropods such as crabs can sacrifice a claw, which can be regrown over several successive moults
 
