@@ -272,7 +272,7 @@ https://www.youtube.com/watch?v=rlC8fXRmVZ0
 		- Diversity
 		- Memory
 		- Self-nonself recognition
-*Note: I believe that the Review of the immune system by Khan Academy (8 videos) is an excellent way to approach this lecture (see links of interest). 
+-*Note: I believe that the Review of the immune system by Khan Academy (8 videos) is an excellent way to approach this lecture (see links of interest). 
 
 - General characteristics of B- and T-cells (Ch. 51, pp1041-1047)
 	- The vertebrate body is populated by two main types of lymphocytes: B lymphocytes (B cells) and T lymphocytes (T cells).
@@ -314,6 +314,8 @@ https://www.youtube.com/watch?v=rlC8fXRmVZ0
 	- Some maturation of these immune cells occurs at the sites of cell production, as with mammals. But studies have determined that a significant number of immune cells in these animals actually mature as they circulate in the bloodstream
 	- Like the ever-present IgM molecule, immune cells already in the shark's blood may be available to respond without a lag period, resulting in a more efficient immune response
 
+![sharkimmune](https://cloud.githubusercontent.com/assets/13633831/9535628/395be006-4cd8-11e5-9c2b-118cf65bf05f.JPG)
+
 - Notes: Immune system in marine invertebrates 
 	- Little is known about the immune system in invertebrates
 	- Current evidence suggests that invertebrates lack cells analogous to lymphocytes, the white blood cells responsible for acquired, specific immunity in vertebrates.
@@ -338,4 +340,31 @@ https://www.youtube.com/watch?v=rlC8fXRmVZ0
 		- Escaping
 			- Swim away
 			- Autotomy- e.g. certain sea slugs discard stinging papillae; arthropods such as crabs can sacrifice a claw, which can be regrown over several successive moults
+![cephalop](https://cloud.githubusercontent.com/assets/13633831/9535632/48446e80-4cd8-11e5-8c12-4863d9f2de8b.JPG)
+
+
+- Links of interest
+Podcast the immune system by Bozeman Science – simple and didactic 
+https://www.youtube.com/watch?v=z3M0vU3Dv8E
+
+Review of the immune system by Khan Academy (8 videos)-very good and complete
+https://www.youtube.com/playlist?list=PL14EB6C745989FC22
+
+Gill-clogging slime secretion in hagfishes: A defense mechanism against predation
+https://www.youtube.com/watch?v=Bta18FdkVcA
+
+Coagulation and innate immune responses: can we view them separately? - A little more advance reading but very interesting
+http://www.bloodjournal.org/content/bloodjournal/114/12/2367.full.pdf?sso-checked=true
+
+Immune system of cnidarians –very interesting reading
+http://worldoceanreview.com/en/wor-1/medical-knowledge/the-causes-of-disease/
+
+Cnidarian-microbe interactions and the origin of the innate immunity in metazoans
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-micro-092412-155626
+
+Review article: Immunological function in marine invertebrates: responses to environmental perturbation
+http://www.sciencedirect.com/science/article/pii/S1050464811001215
+
+Mimicry in cephalopods
+http://www.reed.edu/biology/professors/srenn/pages/teaching/web_2007/armmil_site/index.html
 
