@@ -229,3 +229,47 @@ Also, since O2 and CO2 diffuse much faster in air than in water, respiratory sur
 Link of interest
 Countercurrent circulation in fish gills 
 https://www.youtube.com/watch?v=rlC8fXRmVZ0
+
+#11 Defense: The immune system and defense mechanisms
+- Overview:
+	- Organisms live in a hostile environment
+	- An animal must defend itself against unwelcome intruders—the many potentially dangerous viruses, bacteria, and other pathogens it encounters in the air, in food, and in water
+	- It must also deal with abnormal body cells, which, in some cases, may develop into cancer
+	- Two major kinds of immunity have evolved to counter these threats:
+		- Innate / non-specific immune response:
+			- First line of defense
+				- Barriers
+			- Second line of defense
+				- Inflammatory response
+				- Phagocytes (neutrophils, monocytes (and –derived macrophages), eosinophils, dendritic cells)
+				- Natural killer
+		- Adaptive immunity
+			- Lymphocytes
+				- B-lymphocytes (B cells, bursa of Fabricius or bone marrows) - Humoral response
+				- T-lymphocytes (T cells, thymus) - Cell-mediated response
+
+	- In the second part of this lecture, we will briefly analyze different strategies that animals have developed to protect themselves against predators: Anti-predator adaptations
+
+- Innate / non-specific immune response (Ch. 51, pp 1038-1041)
+	- Innate defenses are largely nonspecific, provides broad defenses against infection
+	- Barriers to entry (Ch. 51, pp 1038-1039). An invading microbe must penetrate the external barrier formed by the skin and mucous membranes, which cover the surface and line the openings of an animal’s body
+		- First line of defense
+		- Intact skin is a barrier that cannot normally be penetrated by bacteria or viruses
+		- Likewise, the mucous membranes that line the digestive, respiratory, and genitourinary tracts bar the entry of potentially harmful microbes
+		- Microbial colonization is also inhibited by the washing action of saliva, tears, and mucous secretions that continually bathe the exposed epithelium
+		- Stomach acid
+
+	- If microbes penetrate the body’s protective barrier, particular cells initiate the innate immune response (first response to pathogens, still non-specific, Ch. 51, pp1039-1041):
+		- The leukocytes involved in innate immunity provide an important, generic response that is directed against the general type of pathogen encountered-The innate response is able to distinguish between fungi and bacteria but cannot identify a specific strain either group
+		- The inflammatory response and phagocytes (Ch. 51, pp 1040-1041; Fig. 51.3, and table 51.2). See a good video by Khan Academy in links of interest 
+
+- Adaptive immune response
+	- While microorganisms are under assault by phagocytic cells, the inflammatory response, and antimicrobial proteins, they inevitably encounter lymphocytes, the key cells of acquired immunity, the body’s second major kind of defense
+	- As macrophages and dendritic cells phagocytose microbes, they secrete certain cytokines that help activate lymphocytes and other cells of the immune system
+	- Thus the innate and acquired defenses interact and cooperate with each other
+	- Characteristics of the adaptive immune response
+		- Specificty
+		- Diversity
+		- Memory
+		- Self-nonself recognition
+
