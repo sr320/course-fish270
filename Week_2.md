@@ -206,32 +206,3 @@ What can we tell about the organism based on the pigments that it contains?
 
 Seegrass in the Salish sea
 http://www.beachwatchers.wsu.edu/ezidweb/seaweeds/
-
- 
-#7. FEEDING IN VERTEBRATES (INCOMPLETE)
-
--	The gill arches-derived vertebrate jaw, Ch 35 pp 692
-
--	Hagfish (scavengers and predators) and lampreys (ectoparasites) are the only living jawless vertebrates
-
--	Advantages of jaws in vertebrates: expansion of the possible food source
-
--	Specialization of the jaw. A case study: the cichlid jaw. The structure of the pharyngeal jaw correlates with the type of food ingested, Ch 44, 884-885.
-
--	The digestive system: carnivorous vs. herbivorous
-  -	Gastrointestinal secretion
-  -	Absorption
-
--	Accesory organs
-    -	Liver
-    -	Pancreas/Hepatopancreas
-    
--	Control of processes
-    -	Nervous
-    -	Mechanical
-    -	Hormonal
-
-
-Link of interest
-Digestive system in marine mammals
-http://www.mmapl.ucsc.edu/normal-anatomy-harbor-porpoise/digestive-system-harbor-porpoise
