@@ -233,6 +233,9 @@ Link of interest
 Countercurrent circulation in fish gills 
 https://www.youtube.com/watch?v=rlC8fXRmVZ0
 
+Respiratory pigments
+https://books.google.com/books?id=AljmCAAAQBAJ&pg=PR4&lpg=PR4&dq=respiratory+pigments+lab&source=bl&ots=oVN5KmdzG7&sig=ZwXigyNZLPUDvr8cXRaaeXVkAh8&hl=en&sa=X&ved=0CCoQ6AEwAmoVChMI95LR3bfMxwIVDgySCh27OgMN#v=onepage&q=respiratory%20pigments%20lab&f=false
+
 #11. Defense: The immune system and defense mechanisms
 - Overview:
 	- Organisms live in a hostile environment
@@ -372,3 +375,4 @@ http://www.sciencedirect.com/science/article/pii/S1050464811001215
 Mimicry in cephalopods
 http://www.reed.edu/biology/professors/srenn/pages/teaching/web_2007/armmil_site/index.html
 
+#LAB WORK 4: 
