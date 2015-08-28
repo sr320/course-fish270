@@ -89,7 +89,7 @@ Microcirculation
 https://www.youtube.com/watch?v=HhUiY_RLg_g
 
 
-#10 Gas exchange
+#10. Gas exchange
 - Overview
 	- To support continued production of ATP, cells have to obtain O2 and expel excess of CO2 continuously. Revise concepts from lecture 4 on “Bioenergetics”
 ![fig1](https://cloud.githubusercontent.com/assets/13633831/9481477/991aa59e-4b3f-11e5-94b8-25b3fca5619c.jpg)
@@ -153,7 +153,10 @@ https://www.youtube.com/watch?v=HhUiY_RLg_g
 		- Thus, gills must be very effective to obtain enough oxygen
 	- Ventilation, which increases the flow of the respiratory medium over the respiratory surface, ensures that there is a strong diffusion gradient between the gill surface and the environment
 		- Crayfish and lobsters have paddle-like appendages that drive a current of water over their gills
-		- Most fishes open and close their mouth and operculum. The pumping action of the mouth and operculum creates a pressure gradient that moves water over the gills. 
+		- Most fishes open and close their mouth and operculum. The pumping action of the mouth and operculum creates a pressure gradient that moves water over the gills
+		- Unlike bony fish, they do not have gill covers. Water must continually flow across these slits in order for the shark to breathe. This can be accomplished by the shark's swimming, by it standing still in a current, or by it fanning water across the gills with its fins (this is done by the nurse shark)
+		- Some sharks have spiracles, which are special gill slits located just behind the eyes. They supply oxygen directly to the eyes and brain of the shark
+
 	- The fish gill is a countercurrent system: concurrent vs. countercurrent system (Ch. 45, pp 906-907, Fig. 45.5, and Fig. 45.6); also see in links of interest: Countercurrent circulation in fish gills 
 		- The countercurrent exchange mechanism is so efficient that the gills can remove more that 80% if the oxygen from water to blood
 
@@ -230,7 +233,7 @@ Link of interest
 Countercurrent circulation in fish gills 
 https://www.youtube.com/watch?v=rlC8fXRmVZ0
 
-#11 Defense: The immune system and defense mechanisms
+#11. Defense: The immune system and defense mechanisms
 - Overview:
 	- Organisms live in a hostile environment
 	- An animal must defend itself against unwelcome intruders—the many potentially dangerous viruses, bacteria, and other pathogens it encounters in the air, in food, and in water
@@ -343,7 +346,8 @@ https://www.youtube.com/watch?v=rlC8fXRmVZ0
 ![cephalop](https://cloud.githubusercontent.com/assets/13633831/9535632/48446e80-4cd8-11e5-8c12-4863d9f2de8b.JPG)
 
 
-- Links of interest
+Links of interest
+
 Podcast the immune system by Bozeman Science – simple and didactic 
 https://www.youtube.com/watch?v=z3M0vU3Dv8E
 
