@@ -326,7 +326,7 @@ https://www.youtube.com/watch?v=rlC8fXRmVZ0
 	- Even in animals such as the Cnidaria, which lack mobile phagocytes, hemolymph or an impermeable barrier to invading organisms active phagocytosis has been demonstrated, being carried out by ectodermal as well as endodermal epithelial cells
 	- Immune cells, or phagocytes, are particularly abundant in haemolymph,
 
-- Anti-predator adaptations-we can use this last part to light up the lecture
+- Anti-predator adaptations (we can use this last part to lighten up this lecture)
 	- Evolutionary success is measured in offspring produced or genetic contribution to the next generation, but to reproduce it is necessary to survive long enough to do so
 	- Mechanisms developed through evolution that assist prey organisms in their constant struggle against predators (some examples found in marine organisms)
 		- Avoiding detection
