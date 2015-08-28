@@ -375,4 +375,17 @@ http://www.sciencedirect.com/science/article/pii/S1050464811001215
 Mimicry in cephalopods
 http://www.reed.edu/biology/professors/srenn/pages/teaching/web_2007/armmil_site/index.html
 
-#LAB WORK 4: 
+#LAB WORK 4 
+- Two options:
+	- Option 1. Exercise- and (or) hypoxia-induced anaerobic metabolism in a teleost fish.
+		- We can adapt the protocol shown in http://advan.physiology.org/content/33/1/72.long
+		- This links concepts of bioenergetics and gas exchange
+		- Again we would need to work with a vertebrate (IACUC problems???)
+
+	- Option 2. Dissect a rock anemone and view cnidocytes under the microscope
+		- We can use this lab to review the concepts of circulation and gas exchange in invertebrates seen this week
+		- We can also complete the last part of the third lecture week on anti-predator adaptations
+		- For the activation of cnidocytes we can follow this protocol
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCIQFjAAahUKEwjpqb_jwMzHAhVXF5IKHc8rA1o&url=http%3A%2F%2Fwww.ableweb.org%2Fvolumes%2Fvol-29%2Fv29reprint.php%3Fch%3D20&ei=sbXgVamNL9euyATP14zQBQ&usg=AFQjCNHuNHYaB3vL-lXGHSdbHz2of07wYw&sig2=S5JOtBgj3LZBkp9_4A7c6Q&cad=rja
+
+
