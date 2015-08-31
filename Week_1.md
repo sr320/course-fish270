@@ -118,6 +118,8 @@ Other resources: https://www.youtube.com/watch?v=TeSKSPPZ6Ik student can log in 
 
 •	How salinity, temperature and pressure alter the physical properties of water, most importantly the solubility of gases (O2) and how that affects aquatic life. Resources: http://www.engineeringtoolbox.com/oxygen-solubility-water-d_841.html, http://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/,
 
+- Water has an extremely high specific heat (Ch 2, 27-28)
+
 •	Sunlight in the ocean (this should have been explained in Marine Biology 250).
 
 •	Ocean as dynamic biomes. Horizontal and vertical changes in abiotic factors: light, salinity, temperature and pressure, and biotic factors (food availability, social, etc.), and their relative importance in different aquatic environments. Ch 52, pp. 1074-1079. 
