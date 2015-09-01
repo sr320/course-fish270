@@ -114,7 +114,7 @@ Other resources: https://www.youtube.com/watch?v=TeSKSPPZ6Ik student can log in 
 
 ## AQUATIC ENVIRONMENT
 
-•	Understand the nature of the water molecule and its unique properties. Ch 2, pp 25-30.
+•	Understand the nature of the water molecule and its unique properties. Ch 2, pp 25-30. Good video for basic concepts: https://www.youtube.com/watch?v=aVmU3CLxvgU
 
 •	How salinity, temperature and pressure alter the physical properties of water, most importantly the solubility of gases (O2) and how that affects aquatic life. Resources: http://www.engineeringtoolbox.com/oxygen-solubility-water-d_841.html, http://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/,
 
