@@ -383,5 +383,15 @@ Website about shark senses
 http://www.sharkproject.org/haiothek/index_e.php?site=funktion
  
 #LAB WORK 5
-
-
+- Option 1: Metaneuron
+	- MetaNeuron is a free computer program that models the basic electrical properties of neurons
+	- The program is intended for the beginning neuroscience student and requires no prior experience with computer simulations
+	- Different aspects of neuronal behavior are highlighted in the six lessons presented in MetaNeuron
+	- We can download the software and teh manual for free at http://www.metaneuron.org/
+	- Although the software is very user-friendly, might be a little too adavanced of this course
+	
+-Option 2: Salinity and volume regulation
+	- As we explained, most of marine invertebraets are osmoconformers
+	- Determine effect of different salinities and sacarose on changes on body weight and survival in a marine worm
+	- Characerize the effect of NaCl (animal is permeable) vs. sacarose (impermeable)
+	- Stablish differences in wet vs. dry weight
