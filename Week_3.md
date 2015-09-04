@@ -1,3 +1,11 @@
+#Week 3 
+- FEEDING IN VERTEBRATES
+- Osmoregulation and excretion
+- EXAM
+
+
+---
+
 #7. FEEDING IN VERTEBRATES
 
 - Note: Because we haven’t talked much about fishes and vertebrates in this class, I think we should introduce some important facts.
