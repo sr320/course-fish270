@@ -339,7 +339,7 @@ There is evidence that fish and turtles can distinguish the smell of the area (s
 - 5. Electoreception: sensing electric fields (Ch 47, pp 967-968)
 	- All animals give off weak electrical pulses that arise from the activity of their nerves and muscles. Since the water is a good conductor of these electrical impulses, many kind of fishes use electroreception, or sensation for electric field, to locate prey, detect predator and navigate.
 	- Electroreceptors contain modified hair cells that reposnd to electric field 
-	- Sharks use electroreception to hunt and navigate: role of ampullae of Lorenzini
+	- Sharks use electroreception to hunt and navigate: role of ampullae of Lorenzini (hair cells)
 	- Electromagnetic fishes generate electric fields: electrocytes in electric eels
 
 - 6. Magnetoreception: sensing magnetic fields (Ch 47, pp 968)
