@@ -390,7 +390,7 @@ http://www.sharkproject.org/haiothek/index_e.php?site=funktion
 	- We can download the software and teh manual for free at http://www.metaneuron.org/
 	- Although the software is very user-friendly, might be a little too adavanced of this course
 	
--Option 2: Salinity and volume regulation
+- Option 2: Salinity and volume regulation
 	- As we explained, most of marine invertebraets are osmoconformers
 	- Determine effect of different salinities and sacarose on changes on body weight and survival in a marine worm
 	- Characerize the effect of NaCl (animal is permeable) vs. sacarose (impermeable)
