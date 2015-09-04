@@ -34,9 +34,9 @@
 		- Heterotherm (or poikilotherm), allow their body temperature to rise or fall depending on the environment
 		- Note: some authors refer to heterotherms as those animals which USUALLY keep a constant body temperature, but have specific periods where temperature is different (e.g., hibernation), while poikilotherms are those whose temperature changes according (and strictly) to the environment.
 	- Range of temperature that tolerates
-    - Eurytherm
+    		- Eurytherm
 		- Stenotherm (see The physiology of climate change, in links of interest)
-- Strict endotherm, ectotherm, homeotherm or heterotherm are extreme, many animals fall somewhere in between. Some examples: dessert-adapted mammals, naked moles, Japanese honeybees (see examples in pp 855-856. An extreme case is the Japanese honeybees which kill predators using heat, this is called facultative endothermy)
+	- Strict endotherm, ectotherm, homeotherm or heterotherm are extreme, many animals fall somewhere in between. Some examples: dessert-adapted mammals, naked moles, Japanese honeybees (see examples in pp 855-856. An extreme case is the Japanese honeybees which kill predators using heat, this is called facultative endothermy)
 - How animals survive to winter? 
   - Strategy: torpor and hibernation vs. migration vs. adaptation
 		- Ectotherms may become dormant. Dormancy is NOT hibernation. Fish are ectothermic, and so, by definition, cannot hibernate because they cannot actively down-regulate their body temperature or their metabolic rate. However, they can experience decreased metabolic rates associated with colder environments and/or low oxygen availability (hypoxia) and can experience dormancy
