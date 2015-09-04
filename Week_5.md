@@ -65,7 +65,7 @@
       		- Countercurrent heat exchanger (see gray whale tongue in Ch 42, pp857-858) 
       		- Peripheral vasoconstriction
       	- Locomotor activity
-    	- Behavioral thermoregulation
+      	- Behavioral thermoregulation
      		- Clump together when cool to save heat
       		- Haul out when warm in Polar Regions
     		- Lie in water when warm
