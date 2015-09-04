@@ -64,12 +64,12 @@
 	  - Vascular specialization
       		- Countercurrent heat exchanger (see gray whale tongue in Ch 42, pp857-858) 
       		- Peripheral vasoconstriction
-      	- Locomotor activity
-      	- Behavioral thermoregulation
-     		- Clump together when cool to save heat
-      		- Haul out when warm in Polar Regions
-    		- Lie in water when warm
-      		- Sand flipping
+      - Locomotor activity
+      - Behavioral thermoregulation
+     			- Clump together when cool to save heat
+      			- Haul out when warm in Polar Regions
+    			- Lie in water when warm
+      			- Sand flipping
   - Ectothermy in aquatic animals (fishes)
     - Fishes’ blood has almost direct contact with their heat-robbing environment—through the gills. So for fishes, this means that using your metabolism to keep warm would be very energetically expensive
 Heterothermy is primitive, in the fact that the first vertebrates were (and are) heterotherms
