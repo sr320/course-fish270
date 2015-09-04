@@ -1,8 +1,8 @@
 #Week 2    
 • Bioenergetics    
-• Bioenergetics     
-• Energy acquisition - primary production and oxygen      
-• Lab - Environment (Field trip) -what challenges do organisms have in this environment       
+• PHOTOSYNTHESIS: PRIMARY PRODUCTION AND OXYGEN     
+• NUTRITION: BASIC CONCEPTS AND FEEDING IN INVERTEBRATES      
+• Lab - Environment (Field trip) -what challenges do organisms have in this environment  / EXTRACTION OF PHOTOSYNTHETIC PIGMENTS USING THIN LAYER CHROMATOGRAPHY
 
 ---
 
