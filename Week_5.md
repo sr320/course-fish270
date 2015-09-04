@@ -61,10 +61,10 @@
 	  	- Blubber layer: sheet of adipose tissue reinforced by collagen and elastic fibers
 	  	- Density or length of hair (sea other 125,000 hairs per cm2)
 	  	- Hair = air = insulation, requires grooming
-    	- Vascular specialization
+	  - Vascular specialization
       		- Countercurrent heat exchanger (see gray whale tongue in Ch 42, pp857-858) 
-      		- Peripheral vasoconstriction 
-    	- Locomotor activity
+      		- Peripheral vasoconstriction
+      	- Locomotor activity
     	- Behavioral thermoregulation
      		- Clump together when cool to save heat
       		- Haul out when warm in Polar Regions
