@@ -292,7 +292,7 @@ http://highered.mheducation.com/olc/dl/120107/bio_d.swf
 				- The statocyst consists of a sac-like structure containing a mineralized mass (statolith) and numerous innervated sensory hair cells. The statolith may be secreted by the statocyst or, as in lobsters, it may be formed of sand grains collected for the environment.
 				- The statolith's inertia causes it to push against the sensory hair cells when the animal accelerates and when changes in orientation, allowing balance to be maintained
 				- Because many echinoderms of this group have only simple nervous systems without a controlling "brain", they are limited in their actions and responses to stimuli. The statocyst is therefore useful for telling the animal whether it is upside down or not. An upside-down echinoderm is in danger since its belly is not protected by its spiny skin
-
+![statolith](https://cloud.githubusercontent.com/assets/13633831/9692782/671566ec-5300-11e5-866c-98f80299ddae.JPG)
 			- Otoliths
 				- The vertebrate inner ear also operates like a statocyst. Otoliths, the equivalent of statoliths in vertebrates, move against hair cells called cristae inside fluid-filled ducts (ampullae) to detect gravity and acceleration.
 
@@ -303,7 +303,7 @@ http://highered.mheducation.com/olc/dl/120107/bio_d.swf
 			- The most striking analogy to the lateral line system of fish is found in cephalopods such as cuttlefish, squid and octopuses, where the head and arms bear similar lines of ciliated epidermal cells
 			- A number of species in the shrimp families Sergestidae and Penaeidae have long trailing flagella on the second pair of antennae that are held parallel to the body at some distance. Their tips are equipped with curved setae that form tubes containing mechanoreceptors at regular intervals. Some mechanical properties of this system are remarkably similar to those of fish lateral lines
 			- The electroreceptors of sharks and other electroreceptive fish are derived from the lateral line system. It is thus central to the sensory world of fish
-
+![ll](https://cloud.githubusercontent.com/assets/13633831/9692791/723a6aae-5300-11e5-95f9-5bb6e540501b.JPG)
 		- Echolocation (aka bisonar)
 			- This strategy is valuable underwater, due to its favorable acoustic characteristics and where vision is extremely limited in range due to absorption or turbidity.
 			- The case of toothed whales- see links of interest
@@ -312,6 +312,7 @@ http://highered.mheducation.com/olc/dl/120107/bio_d.swf
 	- Light is effectively parcels of energy called photons, which travel in a wave, the frequency (or wavelength) of which is proportional to the energy they contain 
 	- Most animas have a way to sense light. The organ involved in photoreception range from a simple light-sensitive eyespot in flatworms to the sophisticated, image-forming eyes of vertebrates, cephalopods, mollusk, and arthropods 
 	- The visual ability of an animal influences many aspects of its behavior, including feeding, defense and courtship 
+![electromagneticspectrum](https://cloud.githubusercontent.com/assets/13633831/9692813/99355e20-5300-11e5-8198-f45335edb5f3.JPG)
 	- What is an eye? An eye is an organ that detects this light and translates it via nervous impulses to the brain, where the information is processed further. There is a wide variety of eyes in the animal kingdom, relating to the different types of environment that animal inhabit and the different behavioral takas they undertake 
 		- Compound eye
 			- Insects, crustaceans, and certain arthropods have eyes formed form multiple units called ommatidia (Fig. 47.10)
@@ -326,7 +327,7 @@ http://highered.mheducation.com/olc/dl/120107/bio_d.swf
 		- Distant chemoreceptor: Smell is governed by olfactory receptors, which detect odor molecules from objects at a distance. The molecules can be carried in the air or in the water. On reaching an animal, the molecules bind to the membrane of olfactory hairs (cilia). Importance in que chemical/Pheromonal communication.
 There is evidence that fish and turtles can distinguish the smell of the area (stream or beach) they were born in and use this information as a navigational tool
 			- Effect of current in olfaction
-(FIGURE)
+![currentandolfaction](https://cloud.githubusercontent.com/assets/13633831/9692806/8bead8f8-5300-11e5-99e6-101fc0b98593.JPG)
 		- Direct chemoreceptor: Taste allows the animal to detect and identify molecules form objects that come in contact with its gustatory (taste) receptors. These sensory cells may be concentrated in different regions (e.g., mouth, skin or feet)
 			- The sense of taste in aquatic organisms is probably very similar to the sense of taste in terrestrial organisms. In both cases, the chemicals which will be tasted must be dissolved in water, and the only difference between the aquatic organisms and terrestrial organisms is that food comes wet to aquatic organisms
 		- Peripheral chemoreceptors: sensory extensions of the peripheral nervous system into blood vessels where they detect changes in chemical concentrations
