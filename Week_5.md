@@ -229,3 +229,158 @@ http://www.sumanasinc.com/webcontent/animations/content/actionpotential.html
 http://www.sumanasinc.com/webcontent/animations/content/action_potential.html
 http://highered.mheducation.com/olc/dl/120107/bio_d.swf
 
+#14. Sensory system in animals
+- Background
+	- Animals transform sound, smell, and other stimuli into signals that the brain can understand
+	- Structures that make up sensory systems have been transformed by evolution into diverse mechanisms that sense various stimuli and generate the appropriate physical response
+	- In most of cases, a specie’s sensory abilities correlate with the environment it lives in and its mode of life –how to find food and mates
+	- Complex sensory system facilitates survival
+
+- How do organs convey information to the brain? (Ch. 47 pp 953)
+	- Each type of sensory information (external and internal) is detected by a sensory neuron or by a specialized receptor cell that makes a synapse with a sensory neuron
+	- Activation of sensory receptors results in depolarizations that trigger impulses to the CNS 
+	- The ability to sense a change in the environment depends on four processes (Ch 47, pp 953)
+		- 1. Transduction, the conversion to a stimulus to energy /internal sign in the form of action of potential along sensory neurons
+		- 2. Amplification, the strengthening of stimulus energy by cells sensory pathways 
+		- 3. Transmission of the signal to the central nervous system
+		- 4. Integration of the sensory information, which occurs at the CNS
+			- All action potential are exactly identical in shape and size. The difference is the frequency. The CNS integrates information of the frequency and where it comes from 
+			- Some receptor potential are integrated through summation
+			- Some receptor potential are integrated by adaptation –decrease in responsiveness during continued stimulation-
+	- If a sensory stimulus induces a large change in a sensory receptor’s membrane potential, there is a change in the ‘firing rate” of action potential sent to the brain
+		- The amount of depolarization that occurs in a sound-receptor, for example, is proportional to the loudness of the sound. If the depolarization passes threshold, enough voltage-gated sodium channels open to trigger action potential that are relayed to the brain.
+		- Note: All action potential have identical size and shape, the difference is the frequency (remember the “all or nothing”: amplitude of action potential is independent of stimulus strength once threshold is reached; amplitude of all action potential is constant)
+
+- In vertebrates, two keys to understand how the brain interprets sensory information:
+	- Receptor cells are highly specialized
+	- Each type of sensory neuron sends its signal to a specific portion of the brain
+
+- Sensory transduction (Ch 47 pp 953)
+	- The first step in the sequence, transduction, requires a sensory receptor cell specialized for converting the stimuli into an electrical signal
+	- Sensory receptors classification by location
+		- Exteroreceptors
+			- Respond to stimuli arising outside the body 
+			- Found near the body surface 
+			- Sensitive to touch, pressure, pain, and temperature 
+			- Include the special sense organs
+		- Interoreceptors
+			- Respond to stimuli arising within the body 
+			- Found in internal viscera and blood vessels 
+			- Sensitive to chemical changes, stretch, and temperature changes
+		- Proprireceptors (mostly studied in human)
+			- Nonvisual perception of body position
+			- Found in joint receptors, muscles spindles and Golgi tendon organs (sense changes in muscle tension)
+			- Constantly advise the brain of one’s movement
+	- Sensory receptors classification by the energy they transduce
+		- 1. Mechanoreceptor
+		- 2. Photoreceptor
+		- 3. Chemoreceptor
+		- 4. Thermoreceptor
+		- 5. Electroreceptor
+		- 6. Magnetoreceptor
+		- 7. Nociceptor
+
+- 1. Mechanoreception: sensing pressure changes
+	- Animals have different mechanism for mechanoreception –the sensation of pressure changes-
+	- The mammalian sense of hearing relies on mechanoreceptors that are hair cells in communication with an afferent neuron 
+		- The structure of hair cells (Ch 47, pp 954-955, Fig, 43.7)
+		- Signal transduction in hair cells
+	- Hair cells in aquatic organisms
+		- Gravitational detectors
+			- Statocyst
+				- The Statocyst is a balance sensory receptor (pressure created by gravity) in some aquatic invertebrates, including bivalves, cnidarians, echinoderms, cephalopods, and crustaceans
+				- The statocyst consists of a sac-like structure containing a mineralized mass (statolith) and numerous innervated sensory hair cells. The statolith may be secreted by the statocyst or, as in lobsters, it may be formed of sand grains collected for the environment.
+				- The statolith's inertia causes it to push against the sensory hair cells when the animal accelerates and when changes in orientation, allowing balance to be maintained
+				- Because many echinoderms of this group have only simple nervous systems without a controlling "brain", they are limited in their actions and responses to stimuli. The statocyst is therefore useful for telling the animal whether it is upside down or not. An upside-down echinoderm is in danger since its belly is not protected by its spiny skin
+
+			- Otoliths
+				- The vertebrate inner ear also operates like a statocyst. Otoliths, the equivalent of statoliths in vertebrates, move against hair cells called cristae inside fluid-filled ducts (ampullae) to detect gravity and acceleration.
+
+		- The lateral line system (Ch 47, pp 958-959, and Fig. 47.8)
+			- The lateral-line system is visible as a faint line running down each side of a fish’s body. In sharks, rays and many bony fishes, the neuromast receptors cells (hair-like clusters on the epidermal surface which are projected into a cupula) are located in a canal beneath the skin’s surface. The canal connects with the external environment through a series of pores
+			- The lateral line is highly versatile, being employed in diverse tasks such as schooling (helping to explain the remarkable synchronous movements), tracking and detection of prey and predators and even sexual communication
+			- The aquatic vertebrate’s mechanoreceptors have evolved to know the difference between water displacement caused by their own movement compared to the movement of other organisms, which could be potential predators, mates, or members of their own species. This type of mechanoreceptor allows the organism to sense other organisms before there is any physical contact taking place
+			- The most striking analogy to the lateral line system of fish is found in cephalopods such as cuttlefish, squid and octopuses, where the head and arms bear similar lines of ciliated epidermal cells
+			- A number of species in the shrimp families Sergestidae and Penaeidae have long trailing flagella on the second pair of antennae that are held parallel to the body at some distance. Their tips are equipped with curved setae that form tubes containing mechanoreceptors at regular intervals. Some mechanical properties of this system are remarkably similar to those of fish lateral lines
+			- The electroreceptors of sharks and other electroreceptive fish are derived from the lateral line system. It is thus central to the sensory world of fish
+
+		- Echolocation (aka bisonar)
+			- This strategy is valuable underwater, due to its favorable acoustic characteristics and where vision is extremely limited in range due to absorption or turbidity.
+			- The case of toothed whales- see links of interest
+
+- 2. Photoreception: sensing light (Ch 47, pp 959-964)
+	- Light is effectively parcels of energy called photons, which travel in a wave, the frequency (or wavelength) of which is proportional to the energy they contain 
+	- Most animas have a way to sense light. The organ involved in photoreception range from a simple light-sensitive eyespot in flatworms to the sophisticated, image-forming eyes of vertebrates, cephalopods, mollusk, and arthropods 
+	- The visual ability of an animal influences many aspects of its behavior, including feeding, defense and courtship 
+	- What is an eye? An eye is an organ that detects this light and translates it via nervous impulses to the brain, where the information is processed further. There is a wide variety of eyes in the animal kingdom, relating to the different types of environment that animal inhabit and the different behavioral takas they undertake 
+		- Compound eye
+			- Insects, crustaceans, and certain arthropods have eyes formed form multiple units called ommatidia (Fig. 47.10)
+		- Simple eye
+			- Annelids, cephalopods (squid and octopuses) and vertebrates have single eyes, a structure with a single lens that focuses incoming light onto a layer of many receptor cells (Fig. 47.11)
+			- Function and structure of rods and cones (Ch 47, pp 960-963)
+	- Pineal gland in lower vertebrates
+		- In ectotherms, the pineal gland displays adaptation to light perception. It is a vesicle located just below the skull in an area where the bone is thinner and the surrounding tissues are less pigmented thereby facilitating light entry –See blind fish see shadows in link of interest
+- 3. Chemoreception: sensing chemicals (Ch 47, pp 964-967)
+	- Chemoreceptors detect the presence of particular molecules by undergoing a change in membrane potential when a specific compound is present. In this way, information about the presence of a particular chemical is transduced to an electrical signal in the body 
+	- Taste and smell are important senses for many animals, helping them to find food and mates, communicate and navigate
+		- Distant chemoreceptor: Smell is governed by olfactory receptors, which detect odor molecules from objects at a distance. The molecules can be carried in the air or in the water. On reaching an animal, the molecules bind to the membrane of olfactory hairs (cilia). Importance in que chemical/Pheromonal communication.
+There is evidence that fish and turtles can distinguish the smell of the area (stream or beach) they were born in and use this information as a navigational tool
+			- Effect of current in olfaction
+(FIGURE)
+		- Direct chemoreceptor: Taste allows the animal to detect and identify molecules form objects that come in contact with its gustatory (taste) receptors. These sensory cells may be concentrated in different regions (e.g., mouth, skin or feet)
+			- The sense of taste in aquatic organisms is probably very similar to the sense of taste in terrestrial organisms. In both cases, the chemicals which will be tasted must be dissolved in water, and the only difference between the aquatic organisms and terrestrial organisms is that food comes wet to aquatic organisms
+		- Peripheral chemoreceptors: sensory extensions of the peripheral nervous system into blood vessels where they detect changes in chemical concentrations
+
+- 4. Thermoreception: sensing temperature (Ch 47, pp 967)
+	- Very important in animals that thermoregulate
+	- Some thermoreceptors are located in CNS, while other are located in the skin and other outer surfaces of animals, so that changes in the environmental temperature can be sent.   
+
+- 5. Electoreception: sensing electric fields (Ch 47, pp 967-968)
+	- All animals give off weak electrical pulses that arise from the activity of their nerves and muscles. Since the water is a good conductor of these electrical impulses, many kind of fishes use electroreception, or sensation for electric field, to locate prey, detect predator and navigate.
+	- Electroreceptors contain modified hair cells that reposnd to electric field 
+	- Sharks use electroreception to hunt and navigate: role of ampullae of Lorenzini
+	- Electromagnetic fishes generate electric fields: electrocytes in electric eels
+
+- 6. Magnetoreception: sensing magnetic fields (Ch 47, pp 968)
+	- The Earth produces a magnetic field as it rotates on it axis. Magnetoreception has been described in many groups of organisms including bacteria, fungi, invertebrate and vertebrates
+		- Magnetotaxis in bacterias
+		- Another less general type of magnetic sensing mechanism in animals that has been thoroughly described is the inductive sensing methods used by sharks, stingrays and chimaeras (cartilaginous fish). These species possess a unique electroreceptive organ known as ampullae of Lorenzini which can detect a slight variation in electric potential. These organs are made up of mucus-filled canals that connect from the skin's pores to small sacs within the animal's flesh that are also filled with mucus. The ampullae of Lorenzini are capable of detecting DC currents and have been proposed to be used in the sensing of the weak electric fields of prey and predators. These organs could also possibly sense magnetic fields, by means of Faraday's law: as a conductor moves through a magnetic field an electric potential is generated
+
+- Links of interest
+
+Low frequency sounds induce acoustic trauma in cephalopods
+http://www.esajournals.org/doi/pdf/10.1890/100124
+
+Bottlenose dolphin: communication and echolocation 
+http://seaworld.org/en/animal-info/animal-infobooks/bottlenose-dolphins/communication-and-echolocation/
+
+For bats and dolphins, hearing gene prestin adapted for echolocation
+http://mbe.oxfordjournals.org/content/31/9/2552.full.pdf+html
+
+Adaptive features of aquatic mammals’ eye
+http://onlinelibrary.wiley.com/doi/10.1002/ar.20529/epdf
+
+Photoreception in marine invertebrates
+http://www.jstor.org/stable/3883142?seq=1#page_scan_tab_contents
+
+Structure and functional evolution of the pineal melatonin system in vertebrates
+http://onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2009.04435.x/epdf
+
+Blind fish see shadows
+http://www.nature.com/news/2008/080124/full/news.2008.524.html
+
+The sensory world of aquatic organisms
+http://www.marietta.edu/~mcshaffd/aquatic/sextant/senses.htm
+
+Evidence that fin whales respond to the geomagnetic field during migration
+http://jeb.biologists.org/content/171/1/67.full.pdf+html
+
+Linea lateral in fish and other animals
+http://www.mapoflife.org/topics/topic_443_lateral-line-system-in-fish-and-other-animals/
+
+Website about shark senses
+http://www.sharkproject.org/haiothek/index_e.php?site=funktion
+ 
+
+
+
