@@ -118,3 +118,114 @@ Why do tunas maintain elevated slow muscle temperatures? Power output of muscle 
 http://jeb.biologists.org/content/200/20/2617.long
 
 
+#13. Animal nervous system
+- Background
+	- The ability to sense and react originated billions of years ago with prokaryotes that could detect changes in their environment and respond in ways that enhanced their survival and reproductive success
+	- Such cells could locate food sources by chemotaxis
+	- Later, modification of this simple process provided multicellular organisms with a mechanism for communication between cells of the body
+	- By the time of the Cambrian explosion, systems of neurons that allowed animals to sense and move rapidly had evolved in essentially modern form
+
+- The nervous system among taxa
+	- Nervous systems show diverse patterns of organization
+	- All animals except sponges have some type of nervous system
+	- What distinguishes nervous systems of different animal groups is how the neurons are organized into circuits
+		- Cnidarians have radially symmetrical bodies organized around a gastrovascular cavity
+		- In hydras, neurons controlling the contraction and expansion of the gastrovascular cavity are arranged in diffuse nerve nets
+	- The nervous systems of more complex animals contain nerve nets, as well as nerves, which are bundles of fiberlike extensions of neurons
+	- With cephalization come more complex nervous systems
+		- Neurons are clustered in a brain near the anterior end in animals with elongated, bilaterally symmetrical bodies
+	- In simple cephalized animals such as the planarian, a small brain and longitudinal nerve cords form a simple central nervous system (CNS)
+	- In more complex invertebrates, such as annelids and arthropods, behavior is regulated by more complicated brains and ventral nerve cords containing segmentally arranged clusters of neurons called ganglia
+		- Nerves that connect the CNS with the rest of the animal’s body make up the peripheral nervous system (PNS)
+	- The nervous systems of mollusks correlate with lifestyle
+		- Clams and chitons have little or no cephalization and simple sense organs.
+		- Squids and octopuses have the most sophisticated nervous systems of any invertebrates, rivaling those of some vertebrates.
+		- The large brain and image-forming eyes of cephalopods support an active, predatory lifestyle.
+- Principles of electrical signaling (Ch 46, pp 929-934)
+	- Central nervous system vs. peripheral nervous system 
+	- Types of neurons in the nervous system
+		- Sensory neurons
+		- Interneurons
+		- Motor neurons
+- The anatomy of a neuron (Ch. 46, pp 929-930)
+	- Networks of neurons with intricate connections form nervous systems
+		- The neuron is the structural and functional unit of the nervous system
+		- The neuron’s nucleus is located in the cell body
+		- Arising from the cell body are two types of extensions: numerous dendrites and a single axon
+		- Dendrites are highly branched extensions that receive signals from other neurons
+		- An axon is a longer extension that transmits signals to neurons or effector cells
+- Membrane potential (Ch 46, pp 930-938)
+	- All cells have an electrical potential difference (voltage) across their plasma membrane. 
+		- This voltage is called the membrane potential
+		- In neurons, the membrane potential is typically between −60 and −80 mV when the cell is not transmitting signals 
+	- The membrane potential of a neuron that is not transmitting signals is called the resting potential (ironically, the neurons invest lot of energy to keep that “resting potential stage”) 
+- Resting membrane potential (Ch 46, pp 930-933, Fig. 46.3)
+	- This concept is very well explained in the video by Ray Cinti (see links of interest), I think that we should follow that approach
+	- In all neurons, the resting potential depends on the ionic gradients that exist across the plasma membrane. 
+		- A neuron at resting potential, the concentration of K+ is greater inside the cell while the concertation of Na+ is greater outside the cell 
+		- A neuron at resting potential contains many passive K+ channels and fewer passive Na+ channels; K+ diffuses out of the cell
+		- Anions trapped inside the cell (e.g., proteins) contribute to the negative charge within the neuron 
+	- How the resting potential in maintained? The Na+/K+-ATPase 
+		- Membrane protein
+		- 3 Na+ pumped out and 2 K+ pumped in
+		- Against their electrochemical gradient 
+		- Actively transport: requires ATP –consumes energy-
+		- Necessary to maintain K+ and Na+ gradients across the plasma membrane
+	- Define action potential threshold
+		- Sufficient to drive the interior potential from -70 mV up to -55 mV, the process continues
+- The action potential (Ch 46, pp 933-938)
+	- Again, this concept is very well explained in the video by Ray Cinti (see links of interest), I think that we should follow that approach
+	- An action potential is a rapid, temporary change in a membrane potential
+When stimulated, neurons mount action potential that allow them to communicate with other neurons, muscles or glands. This is a three-phase signal: 
+		- 1. Depolarization
+			- Neurotransmitter stimulate ligated-gated Na+ channels (in dendrites) to open
+			- Na+ comes inside the cell (due to electrochemical gradient: 1. Concertation of Na+ is greater outside the cell (chemical), 2. Negative charge within the neuron (electrical)) 
+			- The higher concentration of Na inside the cell activates voltage-gated Na+ channels which open quickly and more Na+ comes inside the cell (this happens at -55 mV aprox.), see Ch 46, pp 935, Fig. 46.6.- This is an example of POSITIVE feedback mechanism
+			- The cell become more and more positive due to the accumulation of Na+
+			- At +40 mV, the equilibrium potential for Na+ is reached, voltage-gated Na+ channels close and the voltage-gated K+ channels open
+			- The K+ leaves to the outside (massive movement of K out the neuron) through both voltage- and K+ leak channels (passive K+ channels)
+		- 2. Repolarization
+			- Due to the K+ leaving the neuron (electrochemical gradient), the inside of the neuron becomes less and less positive, until finally is negative compared to the outside
+		- 3. Hyperpolarization
+			- However, for K+, the chemical gradient is stronger than the electrical gradient so the efflux of K+ extends beyond electric neutral and even beyond -70mV to approx. -90mV, this is the hyperpolarization stage
+			- Most K+ channels now close and Na+ channels remain closed and the Na/K ATP pump re-established concentration and therefore also electrical gradients across the membrane by pumping out 3 Na+ and taking in 2 K+ at the expense of ATP 
+			- Inactivated Na+ channels behind the zone of depolarization prevents the action potential from traveling backwards
+			- Hyperpolarization prevents the neuron from receiving another stimulus during this time, or at least raises the threshold for any new stimulus
+			- Part of the importance of hyperpolarization is in preventing any stimulus already sent up an axon from triggering another action potential in the opposite direction. In other words, hyperpolarization assures that the signal is proceeding in one direction: toward the synaptic terminals
+
+	- Several factors affect the speed at which action potentials are conducted along an axon
+		- One factor is the diameter of the axon: the larger the axon’s diameter, the faster the conduction
+		- In the myelinated neurons of vertebrates, voltage-gated Na+ and K+ channels are concentrated at gaps in the myelin sheath called nodes of Ranvier
+		- Only these unmyelinated regions of the axon depolarize
+		- Thus, the impulse moves faster than in unmyelinated neurons
+
+- How’s the action potential propagated?  Ch 46, pp. 936, Fig. 46.8.
+	- The refractory state
+- The synapse (Ch 46, pp938-942)
+	- The fact that the axon becomes positive temporarily (action potential) makes the voltage-gated Ca2+ to open at the end of the axon
+	- The Ca2+ gets inside the cell massively
+	- In response to the increase Ca2+ inside the axon, synaptic vesicles fuse with the membranes and release neurotransmitter into the synaptic cleft
+	- In turn, neurotransmitters bind the ligated-gated Na+ channels in the dendrites of the next neuron (post-synaptic neuron), and makes them to open
+	- Neurons integrate information from hundreds or thousands of synapses from other cells (Ch 46, pp 941, Fig. 46.14)
+		- Excitatory popsynaptic potentials (EPSPs)
+		- Inhibitory popsynaptic potentials (IPSPs)
+
+- Links of interest
+Lecture on resting membrane potential by Ray Cinti –Very good
+https://www.youtube.com/watch?v=RTRZNK9Aahc
+
+The action potential by Ray Cinti –Very good
+https://www.youtube.com/watch?v=fO5Xgnswl58
+
+Invertebrate nervous system
+http://www2.le.ac.uk/departments/npb/people/matheson/matheson-neurobiology/images/publications/Matheson_ELS_2002.pdf
+
+Slides on nerve signaling
+http://www.slideshare.net/thelawofscience/nerve-signaling
+
+Series of educational animations on voltage-gated channels and the action potential
+http://highered.mheducation.com/olc/dl/120107/anim0013.swf
+http://www.sumanasinc.com/webcontent/animations/content/actionpotential.html
+http://www.sumanasinc.com/webcontent/animations/content/action_potential.html
+http://highered.mheducation.com/olc/dl/120107/bio_d.swf
+
