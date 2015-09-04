@@ -52,24 +52,24 @@
   - Considering the balance equation, there is not evaporation and no significant radiation source (infrared radiation is rapidly absorbed in water). So for endotherms, either total heat production must be increased, or conductive loss must be minimized
   - Endothermy in aquatic animals (mammals)
 	  - Lower temperature differential: typical mammalian 36-38 C vs. cetaceans 35.5 C
-	  - Generally occur while diving
-	  - Lower body temp reduce O2 consumption (hypometabolism)
-	  - Promotes longer dives time
+	  	- Generally occur while diving
+	  	- Lower body temp reduce O2 consumption (hypometabolism)
+	  	- Promotes longer dives time
 	  - Increase body size (surface area /volume ratio)- Because of the high thermal conductivity and high heat capacity of water, a small animal loses heat rapidly and has no chance of attaining a body temperature very different form the medium
 	  - Increase metabolism heat (heat production)
 	  - Increase insulation (reduce conductance)
-	  - Blubber layer: sheet of adipose tissue reinforced by collagen and elastic fibers
-	  - Density or length of hair (sea other 125,000 hairs per cm2)
-	  - Hair = air = insulation, requires grooming
-    - Vascular specialization
-      - Countercurrent heat exchanger (see gray whale tongue in Ch 42, pp857-858) 
-      - Peripheral vasoconstriction 
-    - Locomotor activity
-    - Behavioral thermoregulation
-     - Clump together when cool to save heat
-      - Haul out when warm in Polar Regions
-    - Lie in water when warm
-      - Sand flipping
+	  	- Blubber layer: sheet of adipose tissue reinforced by collagen and elastic fibers
+	  	- Density or length of hair (sea other 125,000 hairs per cm2)
+	  	- Hair = air = insulation, requires grooming
+    	- Vascular specialization
+      		- Countercurrent heat exchanger (see gray whale tongue in Ch 42, pp857-858) 
+      		- Peripheral vasoconstriction 
+    	- Locomotor activity
+    	- Behavioral thermoregulation
+     		- Clump together when cool to save heat
+      		- Haul out when warm in Polar Regions
+    		- Lie in water when warm
+      		- Sand flipping
   - Ectothermy in aquatic animals (fishes)
     - Fishes’ blood has almost direct contact with their heat-robbing environment—through the gills. So for fishes, this means that using your metabolism to keep warm would be very energetically expensive
 Heterothermy is primitive, in the fact that the first vertebrates were (and are) heterotherms
