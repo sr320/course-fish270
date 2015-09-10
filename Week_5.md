@@ -345,6 +345,7 @@ There is evidence that fish and turtles can distinguish the smell of the area (s
 - 6. Magnetoreception: sensing magnetic fields (Ch 47, pp 968)
 	- The Earth produces a magnetic field as it rotates on it axis. Magnetoreception has been described in many groups of organisms including bacteria, fungi, invertebrate and vertebrates
 		- Magnetotaxis in bacterias
+			- Some contain little particles of minerals that orient with the planet’s magnetic fields to help the bacteria figure out whether they’re swimming up or down 	
 		- Another less general type of magnetic sensing mechanism in animals that has been thoroughly described is the inductive sensing methods used by sharks, stingrays and chimaeras (cartilaginous fish). These species possess a unique electroreceptive organ known as ampullae of Lorenzini which can detect a slight variation in electric potential. These organs are made up of mucus-filled canals that connect from the skin's pores to small sacs within the animal's flesh that are also filled with mucus. The ampullae of Lorenzini are capable of detecting DC currents and have been proposed to be used in the sensing of the weak electric fields of prey and predators. These organs could also possibly sense magnetic fields, by means of Faraday's law: as a conductor moves through a magnetic field an electric potential is generated
 
 - Links of interest
