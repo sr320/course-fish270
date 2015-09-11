@@ -1,3 +1,9 @@
+#Week 5
+- Animal energetics and thermal biology        
+- Animal nervous system           
+- Sensory system in animals            
+- Lab - Computer- MetaNeuron- or Osmoconformers
+
 #12. Animal energetics and thermal biology
 - Review 
   - Basic concepts on homeostasis and temperature
