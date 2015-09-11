@@ -78,22 +78,22 @@
     - Spermiogeneis
     - Spermiation and spawn
 	
-Links of interest
-Mitosis and Meiosis by Paul Andersen (Bozeman Science)
+- Links of interest
+- Mitosis and Meiosis by Paul Andersen (Bozeman Science)
 https://www.youtube.com/watch?v=2aVnN4RePyI
-Giant sawfish have virgin birth, rewrite biology text books
+- Giant sawfish have virgin birth, rewrite biology text books
 http://www.livescience.com/51032-sawfish-have-virgin-births.html
-Virgin birth in a shark
+- Virgin birth in a shark
 http://www.sciencedaily.com/releases/2008/10/081010173054.htm
-Comparison sexual vs. asexual reproduction
+- Comparison sexual vs. asexual reproduction
 http://www.diffen.com/difference/Asexual_Reproduction_vs_Sexual_Reproduction
-Shark and ray reproduction
+- Shark and ray reproduction
 http://www.sharksavers.org/en/education/biology/shark-and-ray-reproduction/
-How shark penises evolved
+- How shark penises evolved
 http://news.sciencemag.org/biology/2015/04/how-shark-penises-evolved
-Why researchers are super excited they saw this whale’s penis
+- Why researchers are super excited they saw this whale’s penis
 http://www.huffingtonpost.com/2015/04/24/humpback-whale-penis_n_7132628.html
-Another place, another timer: marine species and the rhythms of life –an interesting review on chronobiology
+- Another place, another timer: marine species and the rhythms of life –an interesting review on chronobiology
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182551/
 
 
