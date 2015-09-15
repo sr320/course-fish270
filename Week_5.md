@@ -335,9 +335,10 @@ There is evidence that fish and turtles can distinguish the smell of the area (s
 			- Effect of current in olfaction
 ![currentandolfaction](https://cloud.githubusercontent.com/assets/13633831/9692806/8bead8f8-5300-11e5-99e6-101fc0b98593.JPG)
 		- Direct chemoreceptor: Taste allows the animal to detect and identify molecules form objects that come in contact with its gustatory (taste) receptors. These sensory cells may be concentrated in different regions (e.g., mouth, skin or feet)
-			- The sense of taste in aquatic organisms is probably very similar to the sense of taste in terrestrial organisms. In both cases, the chemicals which will be tasted must be dissolved in water, and the only difference between the aquatic organisms and terrestrial organisms is that food comes wet to aquatic organisms
+			- The sense of taste in aquatic organisms is probably very similar to the sense of taste in terrestrial organisms. In both cases, the chemicals which will be tasted must be dissolved in water
 		- Peripheral chemoreceptors: sensory extensions of the peripheral nervous system into blood vessels where they detect changes in chemical concentrations
-
+	- Quorum sensing in microbes (Ch 11, pp 216)
+		-Quorum sensing is the regulation of gene expression in response to fluctuations in cell-population density 
 - 4. Thermoreception: sensing temperature (Ch 47, pp 967)
 	- Very important in animals that thermoregulate
 	- Some thermoreceptors are located in CNS, while other are located in the skin and other outer surfaces of animals, so that changes in the environmental temperature can be sent.   
