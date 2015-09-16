@@ -327,6 +327,7 @@ http://highered.mheducation.com/olc/dl/120107/bio_d.swf
 			- Function and structure of rods and cones (Ch 47, pp 960-963)
 	- Pineal gland in lower vertebrates
 		- In ectotherms, the pineal gland displays adaptation to light perception. It is a vesicle located just below the skull in an area where the bone is thinner and the surrounding tissues are less pigmented thereby facilitating light entry –See blind fish see shadows in link of interest
+	- see artcle on The energetic cost of vision and the evolution of eyeless Mexican cavefish, in links of interest 
 - 3. Chemoreception: sensing chemicals (Ch 47, pp 964-967)
 	- Chemoreceptors detect the presence of particular molecules by undergoing a change in membrane potential when a specific compound is present. In this way, information about the presence of a particular chemical is transduced to an electrical signal in the body 
 	- Taste and smell are important senses for many animals, helping them to find food and mates, communicate and navigate
@@ -389,6 +390,9 @@ http://www.mapoflife.org/topics/topic_443_lateral-line-system-in-fish-and-other-
 
 Website about shark senses
 http://www.sharkproject.org/haiothek/index_e.php?site=funktion
+
+The energetic cost of vision and the evolution of eyeless Mexican cavefish
+http://advances.sciencemag.org/content/1/8/e1500363.full
  
 #LAB WORK 5
 - Option 1: Metaneuron
