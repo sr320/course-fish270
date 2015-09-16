@@ -120,6 +120,13 @@ Other resources: https://www.youtube.com/watch?v=TeSKSPPZ6Ik student can log in 
 
 - Water has an extremely high specific heat (Ch 2, 27-28)
 
+- Comparison of Terrestrial and Marine Ecosystems (Marine Biology: An ecological approach -book. pp 31-38) 
+   - Physical and chemical differences
+   - Biodiversity differences
+   - Life-History differences
+   - Structural and Fujnctional differences
+
+
 •	Sunlight in the ocean (this should have been explained in Marine Biology 250).
 
 •	Ocean as dynamic biomes. Horizontal and vertical changes in abiotic factors: light, salinity, temperature and pressure, and biotic factors (food availability, social, etc.), and their relative importance in different aquatic environments. Ch 52, pp. 1074-1079. 
