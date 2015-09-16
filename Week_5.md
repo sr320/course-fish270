@@ -38,7 +38,8 @@
 	- Whether body temperature is constant
 		- Homeotherm, keep their body temperature constant
 		- Heterotherm (or poikilotherm), allow their body temperature to rise or fall depending on the environment
-		- Note: some authors refer to heterotherms as those animals which USUALLY keep a constant body temperature, but have specific periods where temperature is different (e.g., hibernation), while poikilotherms are those whose temperature changes according (and strictly) to the environment.
+		- Note: some authors refer to heterotherms as those animals which USUALLY keep a constant body temperature, but have specific periods where temperature is different (e.g., hibernation), while poikilotherms are those whose temperature changes according (and strictly) to the environment. Check this for terminology: https://books.google.com/books?id=Af7IwQWJoCMC&pg=PA222&lpg=PA222&dq=tolerate+dehydration+in+animals&source=bl&ots=T_n_TvYrGg&sig=o3CcSrI-jqcO1flcnZ-joOuG3Vg&hl=en&sa=X&ved=0CEkQ6AEwBmoVChMIx-ay99D8xwIVASmICh3VRAEm#v=onepage&q=tolerate%20dehydration%20in%20animals&f=false
+		- 
 	- Range of temperature that tolerates
 		- Eurytherm
 		- Stenotherm (see The physiology of climate change, in links of interest)
