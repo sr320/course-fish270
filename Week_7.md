@@ -106,4 +106,115 @@ https://www.youtube.com/watch?v=A3AUhMCE9n0
   - Common second messengers
 http://www.ncbi.nlm.nih.gov/books/NBK21205/figure/A2051/?report=objectonly
 
+-Physiological changes in fish from stress in aquaculture with emphasis on the response and effects of corticosteroids
+http://www.sciencedirect.com/science/article/pii/095980309190019G
 
+
+#18. Guest Speaker: Jim West / Lyndal L. Johnson on endocrine disrupters in Puget Sound
+
+#19. Case studies: Physiological and behavioral mechanisms in the intertidal zones
+
+- Overview (Book: Marine Biology: An Ecological Approach, pp 266-334) 
+	- Environmental conditions in intertidal zones
+		- The intertidal zone accounts for the smallest area of the world’s ocean, but it is the best known (most accessible to humans)
+		- The intertidal zone has the greatest variation in environmental factors of any marine area
+
+	-1. Tides
+		- Tides have two direct effects on organisms
+			- The first effect involves the duration of exposure to the air. Since the organisms are primarily marine, the longer the organism is exposed to the air, the greater is the chance that they will become desiccated beyond their limits of tolerance. Intertidal organisms differ in their tolerance to exposure, and this difference contributes to their patterns of distribution
+  			- The second effect is the result of the time of day that exposure air occurs. Exposure to air during midday in the tropics could lead to lethal temperatures; exposures at night in the cold temperate zones in winter could lead to the organism’s freezing to death
+  				- We might expect a greater diversity of organisms in the intertidal zone of a tropical area where low tides regularly occur during the night of during the early morning than in an area where they occur at mid-day
+				- In cold-temperate zones, the reverse would be true 
+			- In addition, the greater predictability of tides induces certain rhythms, such as feeding and reproduction, in intertidal organisms
+
+	-2. Temperature
+		- Air temperatures always have a greater range that water temperatures, and extremes may either kill organisms or weaken them, making them susceptible to death by other factors, such as desiccation
+		- Daily exposure to temperature fluctuations of as much as 20C is not uncommon in many rocky intertidal habitats
+			- The temperatures experiences by intertidal organisms differ dramatically among habitats types: organisms on open rock surfaces face the largest temperature fluctuation, while organisms living under seaweeds or marsh grasses are buffered from extreme temperature fluctuations (Figure 6.4 –The influence of intertidal habitats on the temperature experienced in the intertidal zone)
+Ice can have significant effect on intertidal organisms on far northern or southern shores
+			- It has been proposed that this disturbance might explain the absence from New England rocky shores of long-lived organisms otherwise common on intertidal shores unaffected by ice  
+
+	-3. Wave action
+		- Wave action directly affect organisms in two ways
+			- First, on sedimentary shores it moves the entire substrate around, in the process smashing organisms and tearing them apart. Hence, any creatures that live there must be adapted to this force in some way
+			- Second, waves throw water higher on the shore than the water level due to tides; therefore, wave action allows marine organisms to live higher than the tides would permit them to. These organisms experience temperatures extremes and effect of desiccation 
+
+	- 4. Salinity
+		- Salinity may change in the intertidal zone in two ways
+			- First, the intertidal zone may be exposed at low tide and subsequently flooded with fresh water from runoff of heavy rains
+			- The second concerns to tide pools –areas that retain SW at low tide. Tide pools may be flooded with freshwater runoff and thus increase their salinity, or may show increase of salinity due to evaporation during the day.
+
+- General physiological and behavioral adaptations of intertidal organisms
+	- 1. Resistance to water loss (dehydration tolerance)
+		- When intertidal organisms are exposed to air during low tides, they begin to lose water by evaporation Mechanisms to reduce water loss until an external supply of water become available again (see Figure 6.7, pp 273)
+			- The simplest mechanism for avoiding water loss is seen in mobile animals. These animals simply move from the expose surface areas of the intertidal zone into moist crack, crevices, or burrows where eater is available -actively selecting suitable micro-habitats
+			- Living in dense groups decrease decreases water loss
+			- Living in association with seaweed canopies that buffer individual from water loss
+			- Closing shells
+			- Some anemones cover themselves with shell fragments 
+			- Production of mucus that reduces water loss (anemone Actinia, and hydroid Clava squamata)-See a very interesting paper on the applications of the mucus of Actinia equina on links of interest.
+Burrow in the substrate
+
+		- Body systems that tolerate considerable water loss during hours
+			- Most high intertidal animals can withstand a remarkable amount of desiccation 
+			- Chitons can tolerate a 75% water loss
+			- Intertidal algae Porphyra, Fucus and Enteromorpha cannot move and have no mechanisms for avoiding water loss. They can tolerate as much as 60-90% loss of water. See Tolerance to oxidative stress induced by desiccation in Porphyra columbina, in links of interest-We can use some time to explain this paper in class, or use it as a complementary activity
+			- Effect of desiccation in seaweed (see Seaweed ecology and Physiology book, Ch 7, pp 333-336)
+				- During emersion photosynthesis rate drops –This is because the inorganic carbon supply is greatly restricted; a small amount of bicarbonate in the surface film of water on the seaweed is available for photosynthesis but it is not quickly replenished (CO2 in air 10-fold lower than bicarbonate in water) 
+
+
+ 	- 2. Maintenance of heat balance
+		- Intertidal organisms that are exposed to extremes of heat and cold show behavioral and structural adaptations to maintain their internal heat balance
+		- Avoid high temperatures by reducing heat gain from the environment:
+			- Have a relatively large body size compared to similar species either lower in the intertidal zone or in the subtidal zone –A large body size means less surface to volume and less area for gaining heat (large snails commonly live at higher shoreline elevation than smaller individual that are more vulnerable to gain heat
+			- Reduce the area of body tissue in contact with the substrate –This is hard for many species, as they need attachment to the substrate (waves)  
+
+		- Increase heat loss from their bodies:
+			- In mollusks greater elaboration of ridges and other sculpturing on the shell –Ridges and sculpturing act as a radiators and facilitate heat loss by convection. In Tectarium muricatus and Nodilittorina tubercular, both of which have strongly sculptured shells, the shell temperatrure is approximately 0.5 C lower than that of the substratum. In contrast, the difference between the shell surface temperature and that of the substratum in weakly ribbed forms such as Littorina lineata is significantly less
+			- Dark-colored bodies gain and lose heat by radiation more rapidly than light-colored ones –Many tropical and subtropical snails of the high intertidal zone, are much lighter in color that their lower-level relatives; presumably their coloring slows the heat gain
+
+
+	- 3. Mechanical stress
+		- Wave action reaches its maximum in the intertidal zone. As a result, it is necessary for any organism that live intertidally to adapt to resist the smashing and tearing effect of waves. 
+		- Animals:
+			- Limitation of size and shape: small, squat bodies with streamlined shapes that minimize their exposure to the lift and drag of wave forces
+			- Bigger animals can compensate it with additional means of attachment
+				- Byssal gland in bivalve mollusks
+				- Enlarge foot that clamps to the substrate
+			- Sponges develop a denser body walls in wave-exposed than in wave-protected habitats
+			- Motile organisms have no structural mechanisms to resist being swept away and survive because they seek shelter form the waves in crevices or under rocks  
+
+		- Seaweed
+			- In contrast, intertidal algae are often large and cope with wave stress by being flexible and bending toward the substrate as the waves pass over, thereby minimizing  their surface area that is contact with the waves (Figure 6.9)
+
+	- 4. Respiration
+		- Since most of animals inhabiting the intertidal zone are marine, they have respiratory surfaces or gills to extract O2 from the water
+		- These respiratory structures are highly susceptible to desiccation in air and do not function well unless they are submerged in water
+			- Among intertidal organisms there is a tendency to enclose the respiratory surfaces in a protective cavity to prevent them from drying
+			- Other adaptation is the reduced-size gill and the formation of a mantle cavity which serves a lung-like structure for aerial respiration
+Protect respiratory structures by close up or clamp down 
+ 			- Many intertidal fishes often are specialized for cutaneous respiration through the reduction if gills and the proliferation of blood vessels in the skin 
+			- Some studies suggest that many fishes may satisfy over half their O2 needs by gas exchange through the skin
+
+	- 5. Feeding 
+		- All internal animal must expose the fleshy parts of their bodies in order to feed
+		- For those on hard substrate, this means exposing those parts most susceptible to desiccation –As a result, most diurnal rocky intertidal animals are active only during the time the tide is in and they are covered with water
+		- Organisms living in soft substrates are often protected by water saturated substrates and may be active feeders during low tides  
+
+	- 6. Salinity stress
+		- Osmotic stress, either low salinities (heavy rains) or high salinity (evaporation during low tides)
+		- Very stressful environment 
+		- The vast majority of the organisms in the intertidal zone are invertebrates and therefore osmoconformers. Many osmoconformers, such as starfishes and sea urchin, that inhabit intertidal habitats cannot tolerate large fluctuations in salinity and die in masse after heavy rains
+
+	- 7. Reproduction
+		- Because so many intertidal organisms are sedentary or sessile, many rely on external fertilization and have planktonic larvae or free-floating eggs that disperse and live in the water column
+		- To increase their chances of fertilization they form aggregations before releasing their gametes
+		- Many of the mobile intertidal organisms, such as crabs and snails, reproduce by internal fertilization
+		- Other reproductive adaptation is include breeding cycles that are synchronized with the tides –An example is Mytilus edulis, is which gonads mature during periods of spring tides and spawning occurs on subsequent neap tide. In this case synchronized spawn increase chances of fertilization
+
+- Links of interest
+	- Tolerance to oxidative stress induced by desiccation in Porphyra columbina
+http://jxb.oxfordjournals.org/content/62/6/1815.full.pdf+html
+
+	- The mucus of actinia equine (Anthozo, cnidaria): An unexplored resource for potential applicative purposes –This is an easy-to-read, pretty interesting paper
+http://www.ncbi.nlm.nih.gov/pubmed/26295400
