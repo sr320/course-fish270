@@ -1,6 +1,6 @@
 - Open Ocean:
   - Case study 1: Effects of ocean acidification on marine animal in times of ocean warming. Guest speaker: Dr. Shallin Busch, NWFSC-NOAA
-  - Case study 2: Harmful algal blooms and red tide problems: impact of domoic on the US west Coast. Sources: Local newspapers and other media, scientific papers, NOAA outreach education website
+  - Case study 2: Harmful algal blooms and red tide problems: impact of domoic acid on the US west Coast. Sources: Local newspapers and other media, scientific papers, NOAA outreach education website
 
 - Estuaries:
   - Case study 1: Homing in Pacific salmon: physiological mechanisms and ecological basis. Guest speaker: Dr. Andy Dittman, NWFSC-NOAA
