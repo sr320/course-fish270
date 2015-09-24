@@ -72,7 +72,8 @@ http://www.sciencedirect.com/science/article/pii/S0079661115001858
 http://onlinelibrary.wiley.com/doi/10.1029/93RG01280/abstract
       - Microbiology of deep-sea hydrothermal vents
 (Pdf provided)
-      - Case study 2a: Pressure and life: Biological strategies. 
+  
+  - Case study 2a: Pressure and life: Biological strategies. 
 (PDF provided)
 
   - Case study 2b: Sampling at the dee sea. Source: Chapter from book (Book: Marine Biology, an ecological approach, Ed. Nybakken and Bertness), and NOAA outreach education website/Okeanos Explorer: Exploring deep waters off Hawaii: Mission plan.
