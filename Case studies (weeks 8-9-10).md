@@ -81,7 +81,8 @@ http://onlinelibrary.wiley.com/doi/10.1029/93RG01280/abstract
       - Sampling the Deep Sea
     - Okeanos Explorer: Exploring deep waters off Hawaii: Mission plan
 http://oceanexplorer.noaa.gov/okeanos/explorations/ex1504/background/plan/welcome.html
-
+    - Can't Bring Deep-sea Samples Up? Send a Lab Down
+http://www.whoi.edu/oceanus/feature/cant-bring-deep-sea-samples-up-send-a-lab-down
 
 
 
