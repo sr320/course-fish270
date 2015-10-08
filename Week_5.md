@@ -105,6 +105,10 @@ http://www.sciencedirect.com/science/article/pii/S0306456510001440
 The physiology of climate change: how potentials for acclimation and genetic adaptations will determine “winners” and “losers”
 http://jeb.biologists.org/content/213/6/912.full
 
+NOAA declares third ever global coral bleaching event
+Bleaching intensifies in Hawaii, high ocean temperatures threaten Caribbean corals
+http://www.noaanews.noaa.gov/stories2015/100815-noaa-declares-third-ever-global-coral-bleaching-event.html
+
 Thermoregulation in mammals (4 papers, very good for graphs):
 1.	The effects of water temperature on the energetic costs of juvenile and adult California sea lions (Zalophus californianus): the importance of skeletal muscle thermogenesis for thermal balance
 http://williams.eeb.ucsc.edu/publications/pdfs/Liwanag%20et%20al%202009.pdf
